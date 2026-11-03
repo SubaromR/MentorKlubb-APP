@@ -1,0 +1,18 @@
+MentorKlubb Aurora – Tesztek v0.6.1 (A terv főoldal)
+
+TELEPÍTÉS
+1. Zárd be a MentorKlubb fejlesztői alkalmazást.
+2. Ezt a ZIP-et az eredeti Mentorklubb APP/MentorKlubb_APP_Elso_Lepes_Windows_Android projektmappa gyökerébe bontsd ki (NE a COPY-ba).
+3. A meglévő fájlokat a web mappában cseréld le; a web/ alkönyvtárat tartsd meg.
+4. Indítás: npm.cmd run start
+
+CSERÉLT ELEMEK
+- web/MentorKlubb_Aurora_Tesztek_v06.js
+- web/MentorKlubb_Aurora_Tesztek_v06.css
+- web/Aurora_Test_Art_*.webp (5 kép, a felhasználó által jóváhagyott látványtervből kivágott díszítő grafikák)
+
+Az A terv kétsoros, kétoszlopos témakörkártyái és a felső kördiagram az új főoldalon jelennek meg.
+A kártyákra kattintva továbbra is a korábbi v0.6.0 háromszintű (C terv) nézet nyílik.
+NEM módosítja a Szikra/Relikvia mentést, tesztkérdéssorokat vagy a jutalmazási logikát.
+A 0 helyett „—” jelenik meg, ha az előrehaladás még nem számítható megbízhatóan.
+Az Angol 16 leckéjének modulbeosztását nem állítja be.

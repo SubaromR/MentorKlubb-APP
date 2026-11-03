@@ -1,0 +1,16 @@
+@media(min-width:820px){
+body{color:#eaf5ff;background:radial-gradient(ellipse at 80% 5%,#213b7f99,transparent 56%),radial-gradient(ellipse at 4% 60%,#3d28637d,transparent 48%),#091126}
+.topbar{background:#101d37;border-bottom:1px solid #34598c;box-shadow:0 9px 28px #0006}
+.brand,.back-link{color:#e9f7ff}.brand-light{color:#6cdbef}
+.intro{background:linear-gradient(120deg,#152b54,#142147);border:1px solid #3a7db6;color:#f5fbff;box-shadow:0 18px 60px #0007}
+.intro h1{color:#f5fbff}.intro em{color:#76ebf1}.intro p{color:#c2d5eb}.eyebrow{color:#80eaf4}
+.panel,.question-card,.history-panel,.results-panel,.how-panel{background:#152644!important;border:1px solid #385783!important;color:#ebf5ff!important;box-shadow:0 15px 40px #0005!important}
+.panel h2,.question-card h2,.results-panel h2{color:#f5faff!important}
+.panel p,.small-hint,.source-info{color:#b5c7e2}
+select,input,textarea{background:#10213e;color:#f2f8ff;border:1px solid #49678f}select option{background:#10213e;color:#effaff}
+.primary{background:linear-gradient(110deg,#50f0e3,#28c8e3)!important;color:#07243b!important;border:1px solid #71ecf7!important;box-shadow:0 9px 24px #1ccae64a!important}
+.secondary,.ghost,.back-link{background:#203a65;color:#e7faff;border:1px solid #4f70a1}
+.option{background:#172d50;border:1px solid #42608f;color:#f2f8ff}.option:hover{background:#234377;border-color:#65d3ed}
+.progress{background:#304565}
+#mk-appearance-toggle{z-index:800}
+}

@@ -1,0 +1,20 @@
+/* Desktop-only Expedíció visual surface. No economy rules changed. */
+@media(min-width:820px){
+:root{--mk-ink:#ecf6ff;--mk-muted:#aac2de;--mk-main:#42deeb;--mk-purple:#9782ff;--mk-card:#132442;--mk-border:#3b5b87}
+body.mk-expedition-page{background:radial-gradient(ellipse at 72% 2%,#1f3a7999,transparent 48%),radial-gradient(ellipse at 0% 80%,#28205f79,transparent 45%),#091126;color:#e6f3ff}
+.mk-wrapper{max-width:1430px}.mk-hud{background:#122345f2;border-color:#436aa5;color:#e5f7ff;box-shadow:0 12px 35px #0008}
+.mk-hud a{color:#c5e7fb}.mk-hud a:hover{background:#254d7d}
+.mk-hero{background:radial-gradient(ellipse at 100% 20%,#3763c5aa,transparent 52%),linear-gradient(125deg,#142a56,#172a60 54%,#101f44);border:1px solid #387db6;box-shadow:0 20px 60px #0007;border-radius:27px}
+.mk-hero h1{color:#f4faff}.mk-hero p{color:#bed6f0}.mk-hero-badge{background:linear-gradient(135deg,#225cbd,#5173ce);border:1px solid #61c8f8;box-shadow:0 0 30px #48a1ff66;color:white}
+.mk-primary{background:linear-gradient(130deg,#54f0e5,#19c5dc)!important;color:#062440!important;border-color:#87f3ff!important;box-shadow:0 10px 24px #19dcf955!important}
+.mk-secondary{background:#223b70!important;border-color:#5578b7!important;color:#f4faff!important}
+.mk-stat,.mk-block,.mk-quest,.mk-chest-block,.mk-badge,.mk-backup{background:linear-gradient(145deg,#172b4d,#101e39)!important;border:1px solid #385582!important;color:#ebf4ff!important;box-shadow:0 12px 34px #0004}
+.mk-stat h3,.mk-stat strong,.mk-block h2,.mk-block-header h2,.mk-quest h3,.mk-quest strong{color:#f4faff!important}
+.mk-stat small,.mk-block p,.mk-block-header p,.mk-quest small{color:#a5bddb!important}
+.mk-quest{background:#182b4d!important}.mk-quest:hover{border-color:#4ab6db!important}
+.mk-meter,.mk-big-meter{background:#2a3c5f}.mk-meter>div,.mk-big-meter>div{background:linear-gradient(90deg,#39cbe8,#60f0ce)}
+.mk-badge.is-locked{opacity:.55}.mk-badge.is-earned{border-color:#66d5e8!important}
+.mk-claim{background:#244170;color:#dcf8ff;border-color:#446caf}
+.mk-toast{background:#1b3054;color:#edffff;border:1px solid #56b0e7}
+#mk-appearance-toggle{position:fixed;bottom:20px;right:20px;z-index:515;padding:9px 12px;border:1px solid #4a8bcc;border-radius:99px;background:#19325a;color:#e3f8ff;cursor:pointer;font-weight:800}
+}

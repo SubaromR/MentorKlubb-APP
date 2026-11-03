@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "lesson": 4,
+      "kind": "choice",
+      "stem": "What is her job?",
+      "context": "Nora checks patients’ teeth in a dental clinic. She treats cavities and explains how to keep teeth healthy. A cavity is a damaged area in a tooth.",
+      "contextHu": "Nora egy fogászati rendelőben ellenőrzi a betegek fogait. Szuvas fogakat kezel, és elmagyarázza, hogyan lehet megőrizni a fogak egészségét. A cavity a fog sérült, szuvas része.",
+      "options": [
+        "She is a dentist.",
+        "She is a teacher.",
+        "She is a hairdresser.",
+        "She is a waitress."
+      ],
+      "answer": "She is a dentist.",
+      "explanation": "A dentist fogorvos: a történet fogvizsgálatról és fogkezelésről szól."
+    },
+    {
+      "lesson": 4,
+      "kind": "fill",
+      "stem": "Complete the sentence: Daniel is ___ police officer.",
+      "context": "Daniel works for the local police. He directs traffic near schools and helps people report crimes. A police officer enforces the law.",
+      "contextHu": "Daniel a helyi rendőrségen dolgozik. Iskolák közelében irányítja a forgalmat, és segít bejelenteni a bűncselekményeket. A rendőr a törvényeket tartatja be.",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "answer": "a",
+      "explanation": "A police szó /p/ hanggal kezdődik, ezért a police officer előtt a névelő a."
+    },
+    {
+      "lesson": 4,
+      "kind": "drag",
+      "stem": "Drag the correct word into the gap: What is ___ job?",
+      "context": "Amelia is a woman who drives a city bus. You want to ask about Amelia’s occupation. A route is the regular path a bus follows.",
+      "contextHu": "Amelia nő, aki városi buszt vezet. Amelia foglalkozásáról akarsz kérdezni. A route az az útvonal, amelyen a busz rendszeresen közlekedik.",
+      "options": [
+        "she",
+        "his",
+        "her",
+        "hers"
+      ],
+      "answer": "her",
+      "explanation": "A job főnév előtt női szereplő esetén a her birtokos jelző helyes."
+    },
+    {
+      "lesson": 4,
+      "kind": "context",
+      "stem": "Which complete sentence describes Leo correctly?",
+      "context": "Leo works in a restaurant dining room. He takes customers’ orders and brings food to their tables. The dining room is where customers eat. Leo does not cook the meals.",
+      "contextHu": "Leo egy étterem vendégterében dolgozik. Felveszi a vendégek rendelését, és felszolgálja az ételt az asztaluknál. A vendégtér az a hely, ahol a vendégek esznek. Leo nem főz.",
+      "options": [
+        "She is a waitress.",
+        "He is a waiter.",
+        "He is a chef.",
+        "He is a dentist."
+      ],
+      "answer": "He is a waiter.",
+      "explanation": "Leo férfi pincér: He is a waiter. A chef az ételt főző szakács."
+    },
+    {
+      "lesson": 4,
+      "kind": "choice",
+      "stem": "Choose the sentence with the correct article.",
+      "context": "Olivia is a professional athlete. She trains for races and competes for her country. An athlete is someone who regularly takes part in sports competitions.",
+      "contextHu": "Olivia hivatásos sportoló. Versenyekre edz, és a hazáját képviselve versenyez. Az athlete olyan személy, aki rendszeresen sportversenyeken vesz részt.",
+      "options": [
+        "She is a athlete.",
+        "She are an athlete.",
+        "She is an athlete.",
+        "Her is an athlete."
+      ],
+      "answer": "She is an athlete.",
+      "explanation": "Az athlete magánhangzóval kezdődik a kiejtésben, ezért an szükséges; a helyes szerkezet She is."
+    },
+    {
+      "lesson": 4,
+      "kind": "fill",
+      "stem": "Complete the answer: What is his job? — ___.",
+      "context": "George has his own small company. He negotiates with clients and manages the budget. A budget is a plan for spending money. George is a man.",
+      "contextHu": "George-nak saját kis cége van. Ügyfelekkel tárgyal és kezeli a költségvetést. A budget a pénz elköltésére vonatkozó terv. George férfi.",
+      "options": [
+        "She is a businesswoman.",
+        "He is an businessman.",
+        "He are a businessman.",
+        "He is a businessman."
+      ],
+      "answer": "He is a businessman.",
+      "explanation": "Férfi üzletemberről van szó: He is a businessman. A businessman előtt a szükséges."
+    },
+    {
+      "lesson": 4,
+      "kind": "drag",
+      "stem": "Drag the correct occupation into the gap: She is a ___.",
+      "context": "Ella cuts and colours customers’ hair at a salon. She also suggests hairstyles for special events. A salon is a place where people get their hair done.",
+      "contextHu": "Ella egy szalonban hajat vág és fest. Különleges eseményekre frizurákat is ajánl. A salon olyan hely, ahol az emberek megcsináltatják a hajukat.",
+      "options": [
+        "dentist",
+        "hairdresser",
+        "waitress",
+        "police officer"
+      ],
+      "answer": "hairdresser",
+      "explanation": "A hairdresser a fodrász angolul."
+    },
+    {
+      "lesson": 4,
+      "kind": "context",
+      "stem": "What is his job?",
+      "context": "Ben works for a postal service. Each morning, he delivers letters to houses on his route. To deliver means to take something to its destination.",
+      "contextHu": "Ben a postánál dolgozik. Minden reggel leveleket kézbesít az útvonalán lévő házakhoz. A deliver azt jelenti, hogy valamit eljuttatunk a célállomására.",
+      "options": [
+        "He is a taxi driver.",
+        "He is a nurse.",
+        "He is a shop assistant.",
+        "He is a postman."
+      ],
+      "answer": "He is a postman.",
+      "explanation": "A postman a leveleket kézbesítő postás."
+    },
+    {
+      "lesson": 4,
+      "kind": "choice",
+      "stem": "Which job best matches the description?",
+      "context": "Mia welcomes passengers on an aircraft, explains safety procedures and helps them during a flight. A passenger is someone travelling in a vehicle without operating it.",
+      "contextHu": "Mia egy repülőgépen fogadja az utasokat, elmagyarázza a biztonsági eljárásokat és segít nekik a repülés alatt. A passenger olyan személy, aki utazik egy járművön, de nem ő vezeti.",
+      "options": [
+        "She is a flight attendant.",
+        "She is a businesswoman.",
+        "She is a nurse.",
+        "She is a singer."
+      ],
+      "answer": "She is a flight attendant.",
+      "explanation": "A flight attendant a légiutas-kísérő nemtől független megnevezése."
+    },
+    {
+      "lesson": 4,
+      "kind": "fill",
+      "stem": "Complete the question about Oliver: What is ___ job?",
+      "context": "Oliver is a man who teaches history at a secondary school. You want to ask about his occupation. A secondary school is a school for teenagers.",
+      "contextHu": "Oliver férfi, aki történelmet tanít egy középiskolában. A foglalkozásáról szeretnél kérdezni. A secondary school a tizenévesek iskolája.",
+      "options": [
+        "her",
+        "his",
+        "he",
+        "him"
+      ],
+      "answer": "his",
+      "explanation": "A his hímnemű birtokos jelző, és a job főnév előtt áll: What is his job?"
+    }
+  ]
+}

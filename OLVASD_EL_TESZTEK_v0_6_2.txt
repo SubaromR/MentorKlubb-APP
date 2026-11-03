@@ -1,0 +1,30 @@
+MentorKlubb Aurora – Tesztek C terv, v0.6.2
+============================================
+
+Előfeltétel: a v0.6.1 már be van másolva a Windows/Tauri projektbe.
+
+Telepítés:
+1. Zárd be a futó fejlesztői MentorKlubb alkalmazást.
+2. A ZIP web/ mappájában található 2 kódfájlt másold a projekt web/ mappájába.
+3. Ha kérdezi, válaszd a fájlok cseréjét a célhelyen.
+4. Nyiss PowerShellt a projekt főmappájában; indítás: npm.cmd run start
+
+Változások:
+- A Tesztek témakörválasztó (Aurora A) marad.
+- Témakörkártya után külön Tanulási útvonal nézet nyílik a C-terv szerint.
+- 3 nagy, különálló és kattintható kártya: Lecketesztek / Modulzáró / Témakörzáró.
+- A tesztlista csak a megfelelő kártyára kattintva jelenik meg.
+- A témakör haladását mutató panel a 3 kártya alatt jelenik meg.
+- Külön visszalépés a tesztlistából az útvonalra, onnan a témakörökhöz.
+- A kártyák nem indítanak el nem készült vizsgákat.
+
+Fontos:
+- A régi lecketeszt-gombokat és a meglévő testmotor működését változatlanul hagytuk.
+- A Szikra, Relikvia, napi sorozat, XP és a mentett profil adatai nem módosulnak.
+- A modulzáró és témakörzáró tesztek feloldása, kérdéssora és jutalmazása még nincs elkészítve.
+- Haladási %-ot csak megbízhatóan mentett teljesítésből lehet számolni. Addig „—” látható.
+- Az Angol modulbeosztása még nincs megadva; nem lett kitalálva.
+
+Ellenőrzés: 5 témakörben végigteszteltük a kétlépcsős navigációt és visszalépést,
+JavaScript-kivétel nélkül, valódi legacy tesztelemszerkezetre épülő helyi tesztkörnyezetben.
+A végleges Tauri/Windows-alkalmazásban még ellenőrizni kell.

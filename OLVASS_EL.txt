@@ -1,0 +1,30 @@
+MENTORKLUBB 2026 – EGYSÉGES FŐOLDAL + ANGOL MODUL
+===================================================
+
+INDÍTÁS
+1. Csomagold ki a ZIP teljes tartalmát egyetlen mappába.
+2. Nyisd meg az index.html fájlt Chrome/Edge/Firefox böngészőben.
+3. Az Angol menüpont vagy a kezdőlap English-kártyája a legutóbbi
+   1–16. leckés (v2.5) Angol modult nyitja meg.
+4. Az Angol modul fejlécében a „← MentorKlubb” gomb visszavisz a főoldalra.
+
+MI VÁLTOZOTT?
+- Teljesen új kezdőlap öt témakörrel és gyors indítógombokkal.
+- Egységes színrendszer, tipográfia, látványos fókusz- és hover-állapotok.
+- Asztali fejléc-menü; mobilon hüvelykujjal elérhető alsó navigáció.
+- Keresés az Anyagok és a Tanulás témakörleckéi között.
+- Átláthatóbb kártyák, témakörök, teszt- és tanulási oldalak.
+- Az eredeti tananyagok, gyakorlófeladatok és haladásmentések megmaradtak.
+- Az Angol modul cserélve a 16 leckés v2.5 változatra a ZH-előzményekkel.
+
+A „Tanulás” menüpont tartalmi felépítését tudatosan megőriztem.
+
+MEGJEGYZÉSEK
+- A főoldal eredeti fájlneve is megmaradt a kompatibilitás miatt.
+- Az Angol modul nagy méretű MP4 videói továbbra sincsenek a ZIP-ben;
+  a helyi MP4-választóval nyithatók meg. A képes tananyag és a
+  mellékelt VTT-feliratok benne vannak.
+- A mentések a böngésző helyi tárhelyéhez és az oldal megnyitásának
+  eredetéhez kötődnek. Mielőtt másik fájlra/címre térsz át, érdemes
+  a haladásodat a megfelelő modulban exportálni.
+- A honlap statikus, egyelőre nem tartalmaz bejelentkezést vagy szervert.

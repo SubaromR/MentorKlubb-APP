@@ -1,0 +1,42 @@
+MENTORKLUBB 2026 – AI-TESZT (v3.1)
+================================
+
+INDÍTÁS
+1. Csomagold ki a teljes ZIP-et, a mappaszerkezetet hagyd meg.
+2. Nyisd meg a kicsomagolt mappa index.html fájlját.
+3. Kattints a TESZTEK menüre, majd a „✦ AI-teszt készítése” gombra.
+4. Válaszd ki a kurzust, modult, anyagrészt, kérdésszámot, nehézséget és a fókuszt.
+5. Kattints a „Kérésfájl letöltése (.txt)” gombra. A TXT tartalmazza a tényleges kiválasztott tananyag szövegét is, nem csak a beállításokat.
+6. A ChatGPT-ben töltsd fel ezt a TXT-fájlt, és írd mellé: „Hajtsd végre a csatolt kérésfájl utasításait, és a kész tesztet letölthető JSON-fájlként add vissza.”
+7. Töltsd le az AI-tól kapott .json fájlt.
+8. Térj vissza az AI-teszt felületére. Kattints a „JSON-fájl kiválasztása”, majd a „Teszt megkezdése” gombra.
+9. Oldd meg a tesztet, add le. Látod a pontszámot, a saját válaszaidat, a helyes válaszokat és az indoklásokat.
+10. A „Betöltött teszt eltávolítása” gomb felszabadítja a böngészőben aktuálisan betöltött kérdéseket. A lezárt eredmény az előzményekben megmarad. A számítógép letöltési mappájában lévő JSON fájl külön törölhető.
+
+ÚJDONSÁGOK
+- A fő MentorKlubb TESZTEK nézetének tetején külön AI-teszt gomb.
+- Négy kurzus: Önéletrajz, Állásinterjú, Haladó SQL, Statisztika.
+- 11 modul és 77 külön választható lecke/alfejezet.
+- Beállítható 10, 15, 20 vagy 30 kérdés, négy nehézségi/fókuszváltozat helyett részletes választási lehetőségek.
+- Tananyagot tartalmazó TXT kérésfájl vagy teljes prompt másolása.
+- Az AI-teszt önállóan működő JSON-importja, kérdésnavigátora, pontozása és visszanézhető eredményei.
+- A kérdésekhez táblázat, oszlopdiagram, vonaldiagram és képlet is megjeleníthető, ha az AI a dokumentált JSON-sémát használja.
+- Korábbi 12 lezárt AI-teszt helyi megőrzése a böngészőben. A tesztkérdések újragenerálásához a prompt a korábbi kérdések szövegét korlátozott mennyiségben felhasználja az ismétlés elkerülésére.
+
+FONTOS
+- A kérésfájl létrehozása és a teszt megoldása helyben, internet nélkül működik; a valóban új kérdések AI-val történő generálásához ChatGPT vagy más, a TXT-et olvasni képes AI-eszköz szükséges.
+- A kérésfájl hosszú lehet. A felület figyelmeztet 100 000 karakter fölött. Általában pontosabb, ha egy konkrét leckét vagy néhány alfejezetet választasz a teljes modul helyett.
+- Az AI válaszainak szakmai helyessége nem garantálható. A weboldal a JSON szerkezetét és a helyes válasz pontos egyezését ellenőrzi, a szakmai állítások valóságtartalmát nem tudja automatikusan igazolni.
+- A helyi böngészőtárhelyben őrzött AI-tesztelőzmények a böngésző adatainak törlésekor eltűnhetnek. A meglévő más MentorKlubb-tesztek és az Angol modul adatai külön vannak kezelve.
+- A régi kérdésbankokat és tananyagokat ez a verzió nem cseréli le; az AI-teszt opcionális, külön tanulási útvonal.
+
+KIADÁS
+MentorKlubb 2026 – AI-tesztek v3.1
+
+V3.2 – TANULÁSI SEGÍTSÉGEK
+A JSON-formátum nem változott. A segítségek az AI-teszt megoldása alatt, kérdésenként érhetők el:
+1. Szimulált válaszeloszlás: játékos százalékok, nem valódi felhasználói szavazatok és nem hiteles valószínűségek. A legnagyobb érték sem biztosan helyes.
+2. 50:50: két valóban hibás lehetőség kizárása.
+3. Fogalomsegéd: helyi fogalomtár a kérdés szövegében felismerhető kulcsfogalmakhoz. Ha nincs ismert fogalom, általános értelmezési tanács jelenik meg.
+4. Gondolkodási lépések: SQL, statisztika, CV, interjú vagy általános feladat esetén módszertani segítség, nem konkrét jó válasz.
+A segítségek nem csökkentik a pontszámot. Megjegyzik kérdésenként a használatot; az új teszteredményekben is látható, milyen segítségeket vettél igénybe. A részletek a böngésző helyi tárhelyén tárolódnak, mint eddig.

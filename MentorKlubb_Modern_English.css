@@ -1,0 +1,72 @@
+/* MentorKlubb English · desktop aurora — only visual styling, no progress logic. */
+/* Photographic vocabulary cards: also works on Android and small widths */
+.vocab-visual{overflow:hidden}.vocab-visual img[src$=".webp"]{width:100%;max-width:none;max-height:none;height:100%;object-fit:cover;border-radius:9px;display:block}
+@media (min-width:820px) {
+:root{--bg:#080f20;--surface:#111f3a;--surface-2:#162744;--ink:#f1f7ff;--ink-soft:#cad9f0;--muted:#a1b5d2;--border:#354e79;--blue:#4edeee;--blue-dark:#23b8d4;--blue-pale:#193555;--green:#61e5b6;--green-pale:#15423c;--red:#ff8d99;--red-pale:#522535;--gold:#ffc77c;--gold-pale:#41351e;--shadow:0 15px 45px #0006;--shadow-up:0 20px 52px #0009}
+html{color-scheme:dark}body{color:var(--ink);background:radial-gradient(ellipse at 13% 0%,#21468a8c,transparent 40%),radial-gradient(ellipse at 95% 27%,#3c246586,transparent 45%),#081024;background-attachment:fixed}
+.topbar{border-bottom:1px solid #30518b;margin-bottom:14px}.brand-wordmark strong,.brand-wordmark small{color:#f5faff}.brand-wordmark strong span{color:#71e0ed}
+.brand-mark{background:linear-gradient(125deg,#13e8ed,#436de8);color:#031b35;box-shadow:0 0 35px #0fe6f953}
+.tabs-wrap{background:#0e1a33ee;border-color:#34558a;box-shadow:0 9px 34px #0008;backdrop-filter:blur(20px)}
+.tabs .tab{color:#c2d2ea}.tab:hover{background:#203c69;color:#e7fcff}.tabs .tab.active{background:linear-gradient(120deg,#28529e,#3f4fd3);box-shadow:0 0 0 1px #72b9ff69,0 7px 22px #244cbf77;color:white}
+.portal-return,.header-progress{background:#1a2e53!important;color:#e5f6ff!important;border:1px solid #3a6296!important}
+.hero{background:radial-gradient(circle at 81% 13%,#2352a4aa,transparent 44%),linear-gradient(120deg,#112648,#0a1733);border:1px solid #3d78b5;box-shadow:0 24px 65px #0008}
+.hero .btn-primary,.lesson-actions .btn-primary,.btn.primary{background:linear-gradient(115deg,#5af4e4,#34bfe0)!important;color:#05203a!important;border-color:#53dfee!important;box-shadow:0 10px 25px #0ac8db50!important}
+.hero .btn-secondary{background:#25375e;color:#f4faff;border-color:#536d9f}
+.overview-progress,.overview-stat,.home-overview>*,.quick-lesson,.lesson-hero,.lesson-section,.pair-card,.phrase-row,.practice-card,.progress-panel,.locked-card{background:linear-gradient(150deg,#172846,#101c33)!important;color:#edf5ff!important;border:1px solid #344c75!important;box-shadow:0 10px 30px #0004!important}
+.lesson-section>summary:hover,.quick-lesson:hover{background:#1b355c!important}
+.home-section-heading h2,.lesson-hero h2,.lesson-section summary,.lesson-body h2,.quick-lesson strong{color:#f2f8ff!important}
+.lesson-body p,.home-section-heading p,.overview-stat small,.section-note{color:#b4c6df!important}
+.lesson-cover{background:#1a3256!important}
+.vocab-card{background:#172744;border-color:#344e7b;color:#f1f7ff;border-radius:14px;box-shadow:0 9px 25px #0003;overflow:hidden}
+.vocab-card:is(button):hover{border-color:#61d9f9;box-shadow:0 0 0 1px #50ecf470,0 12px 32px #0005;transform:translateY(-4px)}
+.vocab-visual{height:126px;background:#20395c}.vocab-card strong{color:#f5fbff;font-weight:800}.vocab-card .hu{color:#b2c6df}
+.lesson-section-inner{background:#102039;color:#e2efff}.vocab-grid{gap:13px}
+input,textarea,select{background-color:#152a4b;color:#eff8ff;border-color:#49658d}input::placeholder,textarea::placeholder{color:#8fa9cd}
+#mk-appearance-toggle{position:fixed;right:20px;bottom:18px;z-index:150;border-radius:999px;padding:10px 15px;background:#1b3059;color:#e9faff;border:1px solid #4573ad;box-shadow:0 10px 25px #0008;cursor:pointer;font-weight:750}
+#mk-appearance-toggle:hover{background:#2a4778}
+}
+/* Aurora 0.3 — strict contrast for ALL English learning panels; photo previews. */
+@media (min-width:820px){
+:root{--bg:#071124;--surface:#102443;--surface-2:#162e52;--ink:#f1f8ff;--ink-soft:#d3e2f4;--muted:#c0d1e7;--border:#3c6093;--blue:#55e7f1;--blue-pale:#1b355c}
+body{font-size:16px;line-height:1.65;background:radial-gradient(1000px 540px at 15% 6%,#173b7860,transparent 73%),radial-gradient(860px 540px at 95% 38%,#2a1c6b62,transparent 75%),#071224}
+.shell{width:min(1520px,calc(100% - 36px))}
+.topbar{min-height:89px}.tabs-wrap{top:6px}
+.lesson-hero{grid-template-columns:40% minmax(0,1fr);min-height:290px}
+.lesson-cover{background:radial-gradient(circle at 44% 30%,#2c69bd,#152849 69%)!important}.lesson-cover img{padding:0;max-height:345px;object-fit:cover;object-position:center}.lesson-cover::after{background:linear-gradient(0deg,#091e43a2,transparent 65%)}
+.lesson-time{background:#122b4ae8;color:#e7f5ff;border:1px solid #4b81b1}
+.lesson-section,.lesson-hero,.lesson-sidebar,.learn-panel,.lesson-panel,.lesson-details,.course-list,.progress-panel,.quick-lesson{background:linear-gradient(148deg,#14294a,#101f3a)!important;color:#e9f4ff!important;border-color:#385a8c!important}
+.lesson-section>summary{color:#f1faff!important;font-weight:850;font-size:1.09rem}
+.lesson-section-inner{background:transparent!important;color:#e9f5ff!important}
+.pattern-card,.phrase-row,.pair-card,.group-card,.ownership-card,.tip,.lesson-note,.color-card,.grammar-card,.extra-card,.mini-card,.learning-card{background:#1c3456!important;color:#f1f8ff!important;border-color:#42628f!important;box-shadow:none!important}
+.pattern-card b,.pattern-card strong,.phrase-row b,.lesson-section-inner strong{color:#5ce9f7!important}
+.pattern-card span,.pattern-card small,.phrase-row span,.phrase-row small,.lesson-section-inner p,.lesson-section-inner li,.lesson-section-inner label{color:#d5e4f5!important}
+.section-note{font-size:.95rem;color:#bfd5f1!important}
+.lesson-sidebar .nav-item,.lesson-nav-item,.lesson-button,.lesson-index button{color:#d6e6f7!important}
+.vocab-card{background:linear-gradient(155deg,#1b355d,#122544);border:1px solid #3f6498;color:#f5f9ff}
+.vocab-card:focus-within,.vocab-card:hover{box-shadow:0 0 0 1px #5cdff4,0 12px 25px #0008!important}
+.vocab-visual{height:155px;background:#152d4f}.vocab-visual img{width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;border-radius:8px}
+.vocab-grid{gap:14px}.vocab-card strong{font-size:1rem}.vocab-card .hu{color:#bcd0eb}
+.lesson-section>summary:hover,.lesson-actions .btn:hover{background-color:#203f69}
+input,select,textarea{color:#f5f8ff!important;background:#173356!important;border:1px solid #456896!important}
+button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #53ebe4;outline-offset:3px}
+}
+/* Aurora 0.3 readability hotfix: exact existing lesson-list selectors. */
+@media(min-width:820px){
+.drill-list{background:linear-gradient(150deg,#162b4d,#101e38)!important;color:#eef8ff!important;border:1px solid #4267a0!important;box-shadow:0 14px 34px #0008!important;scrollbar-color:#3d679b #14243c!important}
+.drill-list-title strong{color:#f1f8ff!important}.drill-list-title span,.upcoming-lessons>summary{color:#c4d7f0!important}
+.drill-filter,.search-field input{background:#182e50!important;color:#edf8ff!important;border-color:#476897!important}.search-field>span{color:#8fe7f3!important}
+.drill-button{color:#e6f3ff!important;border:1px solid transparent!important}
+.drill-button:hover{background:#27436f!important;border-color:#5178ae!important}
+.drill-button.active{background:linear-gradient(112deg,#174b6c,#244a86)!important;border-color:#54e9f7!important;box-shadow:inset 0 0 14px #1cdef739,0 0 16px #11def522!important}
+.drill-button .drill-no{color:#cfdef2!important;background:#263f65!important}
+.drill-button.active .drill-no{background:#4cecf0!important;color:#082343!important}
+.drill-button.done:not(.active) .drill-no{background:#164e4a!important;color:#72f6c7!important}
+.drill-copy strong,.drill-button.active .drill-copy strong{color:#f3faff!important;font-size:.83rem!important}
+.drill-copy span{color:#b8cee9!important;font-size:.75rem!important}
+.drill-status{color:#a7cbed!important}.drill-button.done .drill-status{color:#62efc7!important}
+.lesson-tip{background:#153b45!important;color:#c5f7e9!important;border:1px solid #286a69!important;border-left:4px solid #4ce6c9!important;font-size:.92rem!important}
+.lesson-lead{color:#c8daf0!important;font-size:.97rem!important}
+.lesson-kicker{color:#66f1e8!important}
+.source-link{background:#1c365a!important;color:#a7f4fc!important;border-color:#4a74a5!important}
+.lesson-section-inner{padding-block:4px}
+}

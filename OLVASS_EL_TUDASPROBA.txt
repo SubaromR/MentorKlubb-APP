@@ -1,0 +1,14 @@
+MENTORKLUBB 2026 – GYAKORLATI TUDÁSPRÓBÁK
+
+INDÍTÁS
+Csomagold ki a ZIP-et. Nyisd meg a MentorKlubb_2026/index.html fájlt egy böngészőben. A meglévő Angol modul és az összes régi tananyag a csomag része.
+
+TARTALMI VÁLTOZÁSOK
+A CV, Állásinterjú, Haladó SQL és Statisztika témakör korábban meglévő 934 tesztkérdését átvilágítottuk. Ezek közül 151 felidézésre épülő kérdést gyakorlati, ellenőrizhető és magyarázattal ellátott kérdésre cseréltünk. A többi korábbi kérdés megmaradt; tehát nem mind a 934 kérdés lett átírva.
+A Tesztek menüpontban hat új modulzáró vizsga van: 1 CV-összegző és 5 SQL-modulzáró. Összesen 72 új, a lecketesztektől eltérő kérdést tartalmaznak. Könnyű, közepes és nehéz szintre külön szűrhetők, vagy egyben is megoldhatók. Az állásinterjú korábban meglévő összegzője és a statisztika négy modulzárója továbbra is elérhető, egyes kérdéseiket megújítottuk.
+A kapcsolódó feladatokhoz 11 szemléltető SVG-ábrát készítettünk a mentor_abrak mappában. Az ábrák betöltéséhez a mappát az index.html mellett kell hagyni.
+A lezárt új modulzárók megmutatják a pontszámot, a saját kijelölt és a helyes válaszokat, valamint a magyarázatot. Az új kérdésekre épülő régi lecketesztek is megjeleníthetik a helyes válaszhoz tartozó indoklást.
+
+FONTOS
+Az új modulzárók eredménye a böngésző helyi tárhelyére kerül; emiatt más böngészőben vagy más helyről megnyitva nem feltétlenül jelenik meg. Az Angol modul saját, korábban kialakított eredménymentése ettől független.
+A csomag offline használatra készült; internetes hivatkozásokhoz (például videókhoz) természetesen internetkapcsolat kell.

@@ -1,0 +1,73 @@
+MENTORKLUBB 2026 • EXPEDÍCIÓ v4.0
+============================
+
+INDÍTÁS
+1. Csomagold ki a ZIP tartalmát egy állandó, saját mappába.
+2. A főoldalt az index.html, a küldetéseket a MentorKlubb_Expedicio.html,
+   az AI-vizsgákat a MentorKlubb_AI_Teszt.html nyitja meg.
+3. A profilod először 60 Szikrával és 2 Relikviával indul;
+   az első napi belépés +10 Szikrát ad.
+
+EXPEDÍCIÓ
+- Gyakori pénznem: SZIKRA. Ritkább pénznem: RELIKVIA.
+- Napi belépés: 10–28 Szikra, minden 7. egymást követő napon 1 Relikvia.
+- Hosszú távú XP/szintfejlődés, fokozatosan növekvő szintküszöbbel.
+- Naponta újrainduló küldetések, hétfőnként induló heti küldetések.
+- Péntek 18:00 és hétfő 18:00 között elérhető hétvégi esemény.
+- Új, ténylegesen megoldott AI-vizsgákért jutalom és min. 50%-nál láda;
+  minden 5. új, sikeres teszt után ritka láda.
+- Ugyanaz a tesztsor egy napon legfeljebb egyszer ad jutalmat,
+  másik napon kis visszatérési jutalmat adhat.
+- A modulzárók és régi, nem AI-alapú tesztek egyelőre nem adnak Expedíció-jutalmat.
+- A ládák ingyenes, garantált játékbeli jutalmak; nincs valódi pénzes vásárlás.
+
+SEGÍTSÉGEK AZ AI-TESZTNÉL
+A jobb oldali "Segítségek" fülre kattintva megnyílik a segédpanel.
+  Válaszeloszlás: 7 Szikra (szimulált, nem megbízható százalékok)
+  50:50:          1 Relikvia (két biztosan hibás válasz kiesik)
+  Fogalomsegéd:   5 Szikra (helyi fogalomtár; ismeretlen fogalomnál nem von le)
+  Gondolkodás:    9 Szikra (módszertani útmutató, nem kész megoldás)
+Megerősítés után a költség azonnal és végleg levonódik.
+A segítség ugyanazon kérdésen nem kapcsolható ki, és nem kérhető újból.
+A teszt pontszámát nem csökkenti, az előzményben látszik a használata.
+Az AI által megadott helyes válasz szakmai megbízhatósága nem garantált.
+
+FONTOS – NAGYON FONTOS – PROFILMENTÉS
+A fejlődés nem a HTML fájlba íródik, hanem a böngésző helyi tárhelyére,
+a változatlan nevű MentorKlubb_Adattar.html URL-jéhez kötve.
+A legfontosabb, hogy a jövőbeli update-eket AZ EREDETI, ÁLLANDÓ MAPPÁDBA
+másold BELE, és ne egy másik elérési úton indítsd a weboldalt.
+
+MINDEN FRISSÍTÉS ELŐTT:
+1. Expedíció oldalon: "Profil biztonsági mentése (.json)".
+2. A mentésfájlt tedd biztonságos helyre (például dokumentumok közé).
+3. Másold az új fájlokat ugyanabba a weboldalmappába, a régiek felülírásával.
+4. Nyisd meg ugyanabban a böngészőben és felhasználói profilban.
+5. Ellenőrizd a Szikra-, Relikvia- és streakértékeket.
+6. Ha hiányzik valami: "Mentés visszatöltése".
+
+A böngésző helyi tárhelye NEM garantáltan örök: böngészőadat-törlés,
+inkognitó mód, másik gép, másik mappa, másik böngésző/profil, biztonsági
+korlátozások mind befolyásolhatják. A .json biztonsági mentés védi a
+felépített Expedíció-profilodat ezekben a helyzetekben.
+
+A profilmentés az Expedíció erőforrásait, streakjét, küldetéseit,
+gyűjteményét és fejlődését tartalmazza, NEM az előző verziók külön
+helyen tárolt AI-tesztjavításainak teljes történetét. Azokat a
+böngészőeredeti helyén őrizzük tovább, ha a böngésző megtartja.
+
+A korábbi v3.2 verzió nem tartalmazott Expedíció-profilt, így annak
+régi tesztjeiért nincs visszamenőleges játékjutalom.
+
+A napi és heti időzítő a helyi számítógép dátumát/óráját használja.
+A rendszer offline, szerver nélkül működik: ez nem csalásbiztos.
+
+FRISSÍTÉSKOR NE NEVEZD ÁT EZEKET:
+ - index.html
+ - MentorKlubb_AI_Teszt.html
+ - MentorKlubb_Adattar.html
+ - MentorKlubb_Expedicio.js / MentorKlubb_Expedicio_Core.js
+
+A jelenlegi MentorKlubb Angol modulja, meglévő tananyagai és AI JSON
+feltöltése megmaradt; az Expedíció most kizárólag a központi
+AI-teszt felülethez kapcsolódik.

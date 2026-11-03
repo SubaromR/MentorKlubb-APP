@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI-teszt | MentorKlubb 2026</title>
+<meta name="description" content="Tananyaghoz igazodó, gyakorlati AI-tesztkérés és JSON-fájlból betölthető ZH.">
+<link rel="stylesheet" href="MentorKlubb_AI_Teszt.css"><link rel="stylesheet" href="MentorKlubb_Expedicio.css">
+
+<link id="mk-modern-desktop-stylesheet" rel="stylesheet" href="MentorKlubb_Modern_Desktop.css">
+<script defer src="MentorKlubb_Modern_2026.js"></script>
+<link rel="stylesheet" href="MentorKlubb_Modern_AI.css"><link rel="stylesheet" href="MentorKlubb_Persistent_Shell.css"><script defer src="MentorKlubb_Persistent_Shell.js"></script></head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html" aria-label="Vissza a MentorKlubbba"><span class="brand-icon">✦</span><span>Mentor<span class="brand-light">Klubb</span></span><span class="brand-year">2026</span></a>
+  <a href="MentorKlubb_Expedicio.html" class="back-link" style="margin-right:10px">✦ Expedíció</a>
+  <a href="index.html" class="back-link"><span aria-hidden="true">←</span> Vissza a főoldalra</a>
+</header>
+<main class="layout">
+ <section class="intro">
+  <div class="intro-copy"><span class="eyebrow">SZEMÉLYRE SZABOTT TUDÁSPRÓBA</span><h1>Új kérdések.<br><em>Valódi tudás.</em></h1>
+  <p>Az AI a <strong>MentorKlubb kiválasztott tananyagát</strong> kapja meg, és abból készíthet új, gyakorlati feladatokat. Nem kell kimásolnod a leckéket, és nincs szükség API-kulcsra.</p></div>
+  <div class="intro-orb" aria-hidden="true"><div class="orb-ring">✦</div><span>KIHÍVÁS</span></div>
+ </section>
+ <div class="workspace">
+ <div class="stack">
+ <section class="panel" id="generator">
+  <div class="panel-top"><span class="step">01</span><div><h2>AI-teszt összeállítása</h2><p>Válaszd ki, miből szeretnél vizsgázni.</p></div></div>
+  <div class="form-grid">
+   <label>Kurzus<select id="aiCourse"></select></label>
+   <label>Modul<select id="aiModule"></select></label>
+   <label class="wide">Anyagrész<select id="aiPart"></select></label>
+   <label>Kérdések száma<select id="aiCount"><option>10</option><option selected>15</option><option>20</option><option>30</option></select></label>
+   <label>Nehézség<select id="aiDifficulty"><option value="vegyes" selected>Vegyes (könnyű–nehéz)</option><option value="alap">Könnyű</option><option value="kozepes">Közepes</option><option value="nehez">Nehéz / kihívás</option></select></label>
+   <label class="wide">Mire fókuszáljon?<select id="aiFocus"><option value="vegyes" selected>Vegyes – értelmezés, alkalmazás, számítás</option><option value="gyakorlat">Gyakorlati esettanulmányok és döntések</option><option value="osszefugges">Összefüggések és következtetések</option><option value="szamitas">Számítások, képletek és adatok értelmezése</option><option value="hiba">Hibakeresés, tévedések felismerése</option></select></label>
+  </div>
+  <div class="source-info" id="sourceInfo" aria-live="polite"></div>
+  <div class="action-row"><button id="promptDownload" class="primary"><span aria-hidden="true">↓</span> Kérésfájl letöltése (.txt)</button><button id="promptCopy" class="secondary">Prompt másolása</button></div>
+  <p class="small-hint" id="copyStatus" role="status">A fájl a beállításokat <strong>és a tananyag tényleges szövegét is</strong> tartalmazza.</p>
+ </section>
+ <section class="panel" id="import">
+  <div class="panel-top"><span class="step">02</span><div><h2>Elkészült teszt betöltése</h2><p>A ChatGPT-től kapott <code>.json</code> fájlt itt nyisd meg.</p></div></div>
+  <label class="upload" id="uploadArea"><span class="upload-icon">⇧</span><strong>JSON-fájl kiválasztása</strong><small>Legfeljebb 50 kérdés, kérdésenként négy válasz és egy helyes megoldás.</small><input type="file" id="jsonInput" accept=".json,application/json"></label>
+  <div class="import-status" id="importStatus" role="status">Még nincs betöltött teszt.</div>
+  <div class="action-row"><button id="startExam" class="primary" disabled>Teszt megkezdése →</button><button id="removeExam" class="ghost" disabled>Betöltött teszt eltávolítása</button></div>
+ </section>
+ </div>
+ <aside class="panel how-panel">
+  <span class="eyebrow dark">HOGYAN MŰKÖDIK?</span>
+  <ol class="how-list"><li><span>1</span><div><strong>Állítsd be</strong><p>Kurzus, modul, anyagrész, nehézség és fókusz.</p></div></li>
+   <li><span>2</span><div><strong>Csatold a kérést</strong><p>Töltsd fel a <code>.txt</code> fájlt a ChatGPT-be. A fájlban benne van a szükséges tananyag.</p></div></li>
+   <li><span>3</span><div><strong>Töltsd le a ZH-t</strong><p>A ChatGPT egy valódi <code>.json</code> tesztfájlt készít. Ezt itt kiválasztod.</p></div></li>
+   <li><span>4</span><div><strong>Gyakorolj és tanulj</strong><p>Oldd meg a kérdéseket négy kérésre aktiválható segítséggel, nézd meg az indoklásokat, majd nyisd vissza az előzményeket.</p></div></li></ol>
+  <div class="tip"><strong>Miért jobb ez?</strong><p>Nem egy előre rögzített feladatsort forgatunk. Az AI a valódi forrásból új szituációkat, adatsorokat és kérdéseket tervezhet.</p></div>
+ </aside>
+ </div>
+ <section id="exam" class="panel quiz-panel hidden" aria-live="polite">
+  <div class="quiz-title"><div><span class="eyebrow dark">AKTUÁLIS VIZSGA</span><h2 id="quizTitle">AI-teszt</h2></div><div class="quiz-counter" id="quizCounter">1 / 15</div></div>
+  <div class="progress"><div id="progressBar"></div></div>
+  <p class="help-intro" style="font-size:12px;color:#61728d;margin:0 0 17px">A fizetős segítségeket a jobb oldali <strong>Segítségek</strong> fülben találod. Aktiváláskor a költség végleg levonódik.</p>
+  <div id="questionArea"></div>
+  <div class="quiz-bottom"><button id="prevQuestion" class="secondary">← Előző</button><button id="nextQuestion" class="primary">Következő →</button><button id="gradeExam" class="success hidden">Teszt leadása és kiértékelése</button></div>
+  <div class="numbers" id="quizNumbers" aria-label="Kérdésnavigátor"></div>
+ </section>
+ <section id="results" class="panel results-panel hidden">
+  <div id="resultDetails"></div>
+  <div class="action-row"><button id="backFromResult" class="secondary">Vissza a tesztgenerátorhoz</button><button id="removeFromResult" class="ghost" disabled>Betöltött teszt eltávolítása</button></div>
+ </section>
+ <section class="panel history-panel" id="historyPanel"><div class="panel-top"><span class="step">↺</span><div><h2>Korábbi AI-tesztek</h2><p>Lezárt eredmények és helyes megoldások, csak olvasható nézetben.</p></div></div><div id="historyList"></div></section>
+ <footer class="footer">MentorKlubb · Az AI által írt feladatokat az oldal szerkezeti szabályok alapján ellenőrzi. A szakmai helyességhez fontos a megoldások kritikus ellenőrzése.</footer>
+</main>
+<script src="MentorKlubb_Expedicio.js"></script>
+<script src="MentorKlubb_AI_Anyagok.js"></script>
+<script src="MentorKlubb_AI_Teszt.js"></script>
+</body>
+</html>
