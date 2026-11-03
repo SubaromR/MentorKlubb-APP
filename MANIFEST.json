@@ -1,0 +1,35 @@
+{
+  "name": "MentorKlubb Aurora – Tesztek",
+  "version": "0.6.0",
+  "basis": "Aurora B v0.5.0",
+  "files": {
+    "web/index.html": {
+      "bytes": 3540575,
+      "sha256": "d048b1768e704a78abe14f95956814c25335bb35f88fef32c91e51f0e90c40d2"
+    },
+    "web/MentorKlubb_Aurora_Tesztek_v06.js": {
+      "bytes": 15553,
+      "sha256": "8b38d5e138db56a291571cb0ef3cfdbbe6078b4d4cff0dd0a9292f16813f70f0"
+    },
+    "web/MentorKlubb_Aurora_Tesztek_v06.css": {
+      "bytes": 11448,
+      "sha256": "cf0bd43804ce339af35ab6454076dfe1b4c46753ba43e98b3d188b0781830a0f"
+    },
+    "web/Mentorklubb_Nyelvtanulas.html": {
+      "bytes": 246633,
+      "sha256": "5a17e066f55a4b78ebc1aba6b9c9af61e313c02a71de9b397ac58e45050aac82"
+    }
+  },
+  "features": [
+    "categories",
+    "three test levels",
+    "read-only old results",
+    "link legacy tests",
+    "retains persistent shell"
+  ],
+  "does_not_implement": [
+    "new module finals",
+    "rewards",
+    "unified completion ledger"
+  ]
+}

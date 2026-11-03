@@ -1,0 +1,1361 @@
+{
+  "source": "MentorKlubb 2026 Expedíció v4.0",
+  "count": 271,
+  "files": [
+    {
+      "path": "KERDESBANK_ELLENORZES.json",
+      "size": 2448,
+      "sha256": "07028f232ac4ad79e11319e85dd7e77208284c0792342dfa154d7d8edbcb5961"
+    },
+    {
+      "path": "MINTA_4_LECKE_TESZT.json",
+      "size": 7317,
+      "sha256": "77e4114cd8697dac41f0070f2d1a5cade07d5407c96b8826bbf115f6e8d28f4f"
+    },
+    {
+      "path": "MentorKlubb_AI_Anyagok.js",
+      "size": 1080866,
+      "sha256": "00f553c185ffd6d31fa7b792579bec1d8c80280492393bea6fe761dfe1d0db10"
+    },
+    {
+      "path": "MentorKlubb_AI_Teszt.css",
+      "size": 15418,
+      "sha256": "fdcbef887a5303f1399b1f8b2ef76cda7e127cb659e504ee528b0d3066fb52c5"
+    },
+    {
+      "path": "MentorKlubb_AI_Teszt.html",
+      "size": 6863,
+      "sha256": "da692c0e1d9bb09e788dc173145464db81f156f3e9bbe240e1e3732bb6dfceba"
+    },
+    {
+      "path": "MentorKlubb_AI_Teszt.js",
+      "size": 34686,
+      "sha256": "109174d8b9a89deee483c7eb783209209f0b02ac998b8f3854ccbda0df07e6be"
+    },
+    {
+      "path": "MentorKlubb_Adattar.html",
+      "size": 417,
+      "sha256": "7dd7cde82146da6a07218cdc4d04659fa9f3598c4196f4f61cfd36cfa83b3f1f"
+    },
+    {
+      "path": "MentorKlubb_Expedicio.css",
+      "size": 11819,
+      "sha256": "5a3053c45c6fd68bf6b02de22cd7449be9605c1057cc7f654a82d7fbdd13cf9a"
+    },
+    {
+      "path": "MentorKlubb_Expedicio.html",
+      "size": 548,
+      "sha256": "9fa6142d72bfdd08e774cab0f8f81bb204c93b66f0a7281c883b10b77f821727"
+    },
+    {
+      "path": "MentorKlubb_Expedicio.js",
+      "size": 16847,
+      "sha256": "438ae1b6f82e90257498888f59c76bb236c0fd54b8c4c0d89e193e27a9737625"
+    },
+    {
+      "path": "MentorKlubb_Expedicio_Core.js",
+      "size": 9860,
+      "sha256": "7a98c381bb1ba373baa8636e349da7a1e27f39d99fbf0c1930d81ad62e9a384b"
+    },
+    {
+      "path": "MentorKlubb_Nativ_Profil.js",
+      "size": 1342,
+      "sha256": "332b63e62bcb14b01a9619dc79c641ec54533dbee5cc3469c9d2b02502224640"
+    },
+    {
+      "path": "Mentorklubb_Nyelvtanulas.html",
+      "size": 245382,
+      "sha256": "35298f193561095d3a548c222e1cde3351d9cc79063a8300ccdadb0a2b5b1f56"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/cover_l1.svg",
+      "size": 1654,
+      "sha256": "a059d48f2fe142bd59f29cc10ae3b909e37ccefc9d8fb051c91ada49e04cf44a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/cover_l2.svg",
+      "size": 1888,
+      "sha256": "3c97880d3161f44f9e9c6a3f53e42befb1b1352e514e22c8ab89e7eb906907c6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/cover_l3.svg",
+      "size": 2196,
+      "sha256": "dff28703d82a0e775966e895c7e15c20abffe88c48328f88634981a2c23d4817"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/cover_l4.svg",
+      "size": 4217,
+      "sha256": "e4fffbce2d86737b047bb431f5bff74097624818697b7a4b9bf7c35b6e6c20b5"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_blackboard.svg",
+      "size": 1296,
+      "sha256": "5ed543260fd13bd1f734f9a6031a6e0ebbd0f189d6a96ad419b765f447856b65"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_book.svg",
+      "size": 1198,
+      "sha256": "dd82b4a60db50f9d0c9f3cc352d3f1fb0a4ef1ee2eeba216839153e227fb43d2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_bookcase.svg",
+      "size": 1791,
+      "sha256": "7a90f36f137e5bc39d74c41098e7ec53799fcb70cb90a0774f49a74e9c225202"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_bookshelf.svg",
+      "size": 1473,
+      "sha256": "1d2a29ec6ef2ec21b5ee8d579148a1c26c53bc6fa0a3878523182ab6e62c317a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_chair.svg",
+      "size": 1357,
+      "sha256": "37d010a156364fe14e9b5f576f68e886dc3a9545cfba8c40807a68a84bf837a8"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_computer.svg",
+      "size": 1183,
+      "sha256": "08a7a8312182b2b98a5fc64599270e5777318454b78601361883d42c9fc5fda0"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_desk.svg",
+      "size": 1226,
+      "sha256": "15a0bb883cba27c80a4fee82cac1621a87e416a20e129cb22dd804615af5e331"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_door.svg",
+      "size": 1088,
+      "sha256": "a209347af6407730e71abe279d65ee09875e126d2aed87272d0c5d3b723a55bc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_floor.svg",
+      "size": 1192,
+      "sha256": "d1234e54fb197b49d258c7d0375d6b523cf966644f83f069b8c1dbe11628f28d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_map.svg",
+      "size": 1159,
+      "sha256": "da9e6d7def7ed5e74b2293cbef63e5a3017db877c5df37953521fe50ed5ea711"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_pen.svg",
+      "size": 1011,
+      "sha256": "a838db44b0a9c4854d0087f75c4451ac6f0f83258400acd56f5e27952157e54f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_picture.svg",
+      "size": 1186,
+      "sha256": "0588d99669ae0f37ec4b52858dc0e8179e96aaa1ff4d7009f676d05fa0ff8dbc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_plant.svg",
+      "size": 1368,
+      "sha256": "96358093f796bd112ea558f2b965790495775d75fe4b09d852c2f168b9704ff0"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_school_bag.svg",
+      "size": 1242,
+      "sha256": "a043d42f781d79c55807b9b592042864c506bd67f3a8dff05f14d73f727bb098"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_wall.svg",
+      "size": 1076,
+      "sha256": "648d073be7a8cdf1c7d0a282a24205d978694124302aebe7cfe670d575fd150c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l1_window.svg",
+      "size": 1225,
+      "sha256": "0d3e22cb82007d56237560f2a500b2ac8a593aa030f727744ad87d191cc7660d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_dictionary.svg",
+      "size": 1242,
+      "sha256": "6ade8be9b9f1d7adb50690fe691934b16256c62006a7f654f56a0a0600498f4c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_exercise_book.svg",
+      "size": 1266,
+      "sha256": "8e8bc9c5b4033c91a84deb4006e8ce76f77828fafd0306a715c9ac36f4c0a049"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_flower.svg",
+      "size": 1503,
+      "sha256": "36417173a6d3fed9338fc49848937fc395a264c9285fd221a8b8c9a7a45de971"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_globe.svg",
+      "size": 1458,
+      "sha256": "96c56a9d749280a4304df0eebad1794354108b01f50694757c8e6d28ea73929d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_handbag.svg",
+      "size": 1116,
+      "sha256": "3dfa9941e1340515b10b4d20099f56f24699b6d1b4157a3197c888c0d808411d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_notebook.svg",
+      "size": 1536,
+      "sha256": "7b96a08d7e86355fabff35d36c7c679812dd96d32c3a43839b0bd8efdfe0beac"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_pencil.svg",
+      "size": 1220,
+      "sha256": "d933860058684ee13ec73063bbd7437187907a3e5f4ac946b8b256768214051a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_photograph.svg",
+      "size": 1199,
+      "sha256": "b3a971a5f0fb644a3309fddfd5aa7229ca38c1692d93c09fa77943b908b6a620"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_student.svg",
+      "size": 1915,
+      "sha256": "652b006c5aa76cde69b4b3b2d53fa83954496dfaf9a370cc36a435e3c212f4bd"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_teacher.svg",
+      "size": 1988,
+      "sha256": "f76d31bbb5e1e2695ad2477f1c2bcd2cc80d57a8561ddebe13f837a3a2abc9a4"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l2_whiteboard.svg",
+      "size": 1253,
+      "sha256": "394efbcb7b5bf31b1c101fcc5c9e9b1ebe70cb08701e5504d447c3cb2ec20d0e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_big.svg",
+      "size": 949,
+      "sha256": "61e5271eaeb53a90b4203842bf18f33224574265747557c5528c4f894b347d53"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_blunt.svg",
+      "size": 1044,
+      "sha256": "684a1642a0e96df8b7b6e9e11e0a073a0bc7726ce54ac93c2d874e0ade31c283"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_cheap.svg",
+      "size": 1346,
+      "sha256": "e3c96610a1c5c5e99607e154c42265bd26252bf1e714e3afbb0d656441a2faa6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_clean.svg",
+      "size": 1265,
+      "sha256": "a5cebcc1ee9b889d4b442ff390db39f5c556099bb3eb5c9096ec73de416f1d69"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_dirty.svg",
+      "size": 1251,
+      "sha256": "569a4ac705d5c03f6b12e18d91e7b9b7e327e5d8b18a6d2d8de8fcfc15d07205"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_empty.svg",
+      "size": 1069,
+      "sha256": "d9602cdc9299eee3d26928e5f2ca0cda172b70a05cf2c2c946f6ceb25d24986b"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_expensive.svg",
+      "size": 1351,
+      "sha256": "29167890ec2495c60aa29eb30cc7d81f93ff091bc48eb4cfbfb6b9971214e51e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_fast.svg",
+      "size": 1477,
+      "sha256": "0975fa04630396baec2c47836838d566cd294dc13a6bcb6faac8ecc3b1e04958"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_full.svg",
+      "size": 1060,
+      "sha256": "8658a63ca8612f01045b70f3d5ccf5cd3d19eb77d48bc8ccad1ccfa90f521a75"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_new.svg",
+      "size": 1276,
+      "sha256": "869bd2e60651c5e3b6e37c3ab015581b19043df3b94f39cd32b0184bc9e804d7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_old.svg",
+      "size": 1367,
+      "sha256": "ce409761a0d999808735c6bde126f0191afed0d67d3f52fdc4bbbbd7acb7c15a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_sharp.svg",
+      "size": 1059,
+      "sha256": "d660b7497d4f08fa74ded1818cb2082f486a240a7a118d6ad517175e8ead3286"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_slow.svg",
+      "size": 1324,
+      "sha256": "4911aa0fc700894056629426c820cd8124a4ca9f02e02f3f54be3e666ab413af"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_small.svg",
+      "size": 950,
+      "sha256": "d1415260d2625cf709d6461a5da21b87ea2c330433fb166ec61bfddce3aaaa3e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_thick.svg",
+      "size": 1034,
+      "sha256": "9fce68916824d64f7ac445e555453e8e735c74369968774b6389c6f6c00b5d91"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l3_thin.svg",
+      "size": 1031,
+      "sha256": "d7bb22ef09dc710778845a602f25a80fbf2b41948fb4e4c64e61d782b91710b7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_air_hostess.svg",
+      "size": 1940,
+      "sha256": "e1eb2cd873fe8ccf67464f2ec8e9ff294709c29130c589e1d53129cd9697af4e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_businessman.svg",
+      "size": 1973,
+      "sha256": "99665ebdfd7ce3ea12f1856b6db398d8a09234697dcff147122b962db0e98575"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_businesswoman.svg",
+      "size": 1927,
+      "sha256": "78b0b9f4fba8a00b675ee2a7bab77754778a3c9e8125f84983bcd87893590e27"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_dentist.svg",
+      "size": 1978,
+      "sha256": "cd20838df4d94913211931c9680e095bc6fcc1858b73fa78515c3f32f478a9b9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_doctor.svg",
+      "size": 2200,
+      "sha256": "252ce68aad37a3a03ef5035eb4c8a0613aadb76db06820df93f0eed08db08020"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_hairdresser.svg",
+      "size": 2102,
+      "sha256": "8846aaba8765955e17312c7aa5d570ea064a23cef42c10129d9911756b0841eb"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_housewife.svg",
+      "size": 1944,
+      "sha256": "7c018409f70070c6e9cf00c27f9417947f8168e89e7909a7f1fa9c7078c6d775"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_nurse.svg",
+      "size": 2217,
+      "sha256": "c17a193f2e63aa3ae5979efbd972798cae628b61a1784a8545fc564070950006"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_police_officer.svg",
+      "size": 2041,
+      "sha256": "0cbbcbeb721406b7464e89be2914d62221c44ff311e3d853e88bcada0109b602"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_postman.svg",
+      "size": 1966,
+      "sha256": "bd867f47e501716cdcc5a5be28f0d2583289ee478f944cc084eec69bee2aa919"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_shop_assistant.svg",
+      "size": 2034,
+      "sha256": "153a7c6525b1617e5f2e3103b74e30de2739101e62e4517e88d7f079c7051e45"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_singer.svg",
+      "size": 1977,
+      "sha256": "30b550a6f80d0b37df94f952b9f8bf511754fc60b992352fadb1800cca106bf8"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_sportswoman.svg",
+      "size": 1908,
+      "sha256": "75ab13a9761bd07cedad67e75783f25df35dd4b194a19f74b217907bd031338c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_taxi_driver.svg",
+      "size": 1989,
+      "sha256": "27ca949500e29a10a63f51101b52237d25ba0ee4c7cbb492decb632b34a0446b"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_teacher.svg",
+      "size": 1988,
+      "sha256": "25158c91668cb915649156d3d4bd4d5dbebf5529b075ead41382c8bb92d1b0e9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_waiter.svg",
+      "size": 1980,
+      "sha256": "8c728a32cee4dadd1eb26ccb4269482f083f0640762743a627a65e4b0e417c75"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 1-4 lecke/l4_waitress.svg",
+      "size": 1982,
+      "sha256": "7dd1e89c8b31967dfe0b14e2f262f4ceb40ab05d128d5da6f40358550b4e6dfd"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/cover_l10.svg",
+      "size": 1117,
+      "sha256": "1add4268d274044b827cd1eb4a77a1033c6c241059bcea55623c2d4193d85f48"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/cover_l11.svg",
+      "size": 1112,
+      "sha256": "6d4697c7bd97998720790290f8d65ef6c74833b2a138ed028ede7d27ff6603b8"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/cover_l12.svg",
+      "size": 1112,
+      "sha256": "54c3a9c9aa975b8075f27b2a21ec1fff0ae056d60e2e7a42a9cf0ae9b5a6c1fa"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/cover_l13.svg",
+      "size": 1119,
+      "sha256": "a5a135ea81884effcff2d115f8c8b867215e977a2101c926c80ac8da40e1b120"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_cars.jpg",
+      "size": 27840,
+      "sha256": "a5511a2c94bf7164d9c3b242766cbcb06945d76b8420304cb81394622871bd6c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_handbags.jpg",
+      "size": 19127,
+      "sha256": "f21fa393541312be952b7e8751d5ba94897712dc97de528328d0fd3637bf29ba"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_houses.jpg",
+      "size": 30257,
+      "sha256": "4469bf20b045ed77e570525f1eb63b03e28becfa2053029be99e88fa181a8812"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_jeans.jpg",
+      "size": 30799,
+      "sha256": "4097da5f9d476c3de82fff50cde5268045b291392026d5f80afc3d76243f8f86"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_jumpers.jpg",
+      "size": 30954,
+      "sha256": "db3455059f220e239b29f86a46c8113e6beaf442f340ab0d5659390455b80f6f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_mobile_phones.jpg",
+      "size": 21954,
+      "sha256": "d87a381b44f60dfdb4e473b4ff032241a128f20b770a46166c6f04973926d279"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_passports.jpg",
+      "size": 19697,
+      "sha256": "312542bd210dab54a2cfec317a9931ec9538745657bc28b8496a9929ab39decf"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_pens.jpg",
+      "size": 14505,
+      "sha256": "989e756939250ffabf26e06d5cf63723a5fe123d4667fb5c9f6ace7d6dedcf50"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_shirts.jpg",
+      "size": 24825,
+      "sha256": "d308583f7f30e200266a2a674d3d0c068268c0c3261dc57febb0964c3f4ab645"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_shoes.jpg",
+      "size": 20998,
+      "sha256": "ab91e2858dae45ef93f2b4be3b360fdb9e10084315e7966430ee6d2714ff60df"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_tickets.jpg",
+      "size": 17809,
+      "sha256": "5b30b6231a331d4759d96b4d567e4f117f17a1a98919de0c34a9012ca2dbc203"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l10_ties.jpg",
+      "size": 25139,
+      "sha256": "72885a41df973005421f7022e69aaff124b0f247caf5819a175861b5d7512822"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_actresses.jpg",
+      "size": 22409,
+      "sha256": "78e6894096246b5108074120877d5a89e48fb109b99340b8919b8ac192b2b028"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_air_hostesses.jpg",
+      "size": 19046,
+      "sha256": "ee2f8500e9371343b660408224342719afed9618c077f6382f2d529b61b0b109"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_babysitters.jpg",
+      "size": 27999,
+      "sha256": "61797046c660da6d44b7f9496cfe1e70e5486e13ab89ba13f8d7f41d5a7a7219"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_bus_drivers.jpg",
+      "size": 18565,
+      "sha256": "956bcd576140e2d4b88fd8df99d8a750d2aa3b70d88157216c439923469efd46"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_businessmen.jpg",
+      "size": 17679,
+      "sha256": "947c6353245eb82fd94cc6c834cd81168fd5829d7c792d5416c02ce04d4536b5"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_cleaners.jpg",
+      "size": 27801,
+      "sha256": "acb772dd9bfb8ac5883877c7e1f165a0b6b3c1f6b49599097405fbc522420710"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_customs_officers.jpg",
+      "size": 25975,
+      "sha256": "6eac886d1756e982f5a32f325dd3deaa44c815e87c827f6df056e5a12a2b6082"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_nurses.jpg",
+      "size": 26422,
+      "sha256": "a94ad5bf2abfc80337e803cd6da1b1f7cfb1e02d3d2d609c7bcaf4641adfb792"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_pilots.jpg",
+      "size": 15679,
+      "sha256": "ca62b6f8c7e703c927573f8f6b7c0f86eb4c2290f66df4803f8ac59a55c353fd"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_police_officers.jpg",
+      "size": 28585,
+      "sha256": "9da7bc1e35027f08374d5b089bf98a98c5a4805deebf66b7dd39e003a6c4705f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_postmen.jpg",
+      "size": 27821,
+      "sha256": "4cf99cdcf24aa1466e191cfbf7d1b21cb9e36cc07f533dcba7a1c64da907c7a8"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_reporters.jpg",
+      "size": 16358,
+      "sha256": "8d61f7d9ef483985d2e9077694c6dda17f188c95a819a8b15b5695a2eee34859"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_secretaries.jpg",
+      "size": 15468,
+      "sha256": "5538355cfd0fd5a03f06d81888dc69dc50ae23c7245279d411aa77b43ffb6b58"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_teachers.jpg",
+      "size": 16445,
+      "sha256": "16f5cdd3382e8066f21ce1f1d0bc199bb6c2e5795cecca8e28af2da3f72e00b4"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_waitresses.jpg",
+      "size": 27121,
+      "sha256": "d043c8f13991952571cee023ce938ee41074bdea48dc0284c165afed7c229b8e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l11_workmen.jpg",
+      "size": 18801,
+      "sha256": "71aca512c488d67812e9d9edce918cd86279e4a5b184d71e975097857c892463"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_bad_tvs.jpg",
+      "size": 23990,
+      "sha256": "7c327ef8cdf74bfb08aa215b041b25b5e157ed03b9a2bcc33defee8dd257688c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_big_glasses.jpg",
+      "size": 16612,
+      "sha256": "2a453c5d8416d0d17a1a6a543f1950e4e1e8bc0305ffa884e4ddcdd0dd6a1c45"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_closed_doors.jpg",
+      "size": 12802,
+      "sha256": "93d91250c3dfa3fe92f8bfb212b886e7003752bd7006cbf1c092baa442c229cc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_good_tvs.jpg",
+      "size": 17273,
+      "sha256": "d45d2cff3be7f7abf639a65a1da3547fb1a2b9cf3dd57e5269ee1d858a6e22fd"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_long_jumpers.jpg",
+      "size": 24490,
+      "sha256": "32091878c5ad5beddcb76d7453405c288d5be3a8fc23f2824d5b164ab623fcbb"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_new_books.jpg",
+      "size": 25431,
+      "sha256": "6a8615c840bc3e91ff5672aeba7d51d7eb17889119bc119cfd61b123782042e6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_old_toys.jpg",
+      "size": 30685,
+      "sha256": "948ba0d82a249a1ef27350cc0f9b399a7c388c1a236446cb2afe528fbc186782"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_open_windows.jpg",
+      "size": 16887,
+      "sha256": "e75344b9d5468429fcb73be372a4b1da974825a5931a22fecb9ebb2739454556"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_shorts.jpg",
+      "size": 24560,
+      "sha256": "884ea716f7a65041be11176ed3d9b1480acafecfb0ac068cccd1ac9a0273aeb7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/l13_small_cups.jpg",
+      "size": 8796,
+      "sha256": "a168857db252429770b07e217082778c08925fca1e4c632215702e98f2972010"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/subtitles/lesson10.vtt",
+      "size": 12779,
+      "sha256": "1a69dedf6c76f5f390d5ab1d215ff164dbcfd92e35c08b19842ccccf7bf15bbd"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/subtitles/lesson11.vtt",
+      "size": 15717,
+      "sha256": "e0985ce14dbf9574efa7a81bc69a9781b9406eb5aaf1ae75677e19267ad02969"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/subtitles/lesson12.vtt",
+      "size": 6115,
+      "sha256": "7ad38f26f7be7a92fcecce9318644d2857f07f5df637007f9e45bef63c7be3ed"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 10-13 lecke/subtitles/lesson13.vtt",
+      "size": 10649,
+      "sha256": "0a5b467ae695a188aff5cac32d9312cb9c25dc887d3f42b24b3704ef28e8cba8"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/cover_l14.jpg",
+      "size": 29642,
+      "sha256": "aa0ac9b418ec4891b29c96ab3db68286191a29d72c455a21e5c01b08eaf2e460"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/cover_l15.jpg",
+      "size": 27249,
+      "sha256": "53bf9c601327c80bbc869da8695395cf8ae85d5bb54c40a7de2eef44d330fef3"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/cover_l16.jpg",
+      "size": 34045,
+      "sha256": "a77826d796a749795699aa6c8eb183580b8a80be6b63c41b6816e1b7ea92bdae"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_boys_good.jpg",
+      "size": 27022,
+      "sha256": "ac215a567eb9ee7ab7ecc5c3eb8fbac0f46d59a9bf1a6328aaca3e532a5a7581"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_boys_naughty.jpg",
+      "size": 22350,
+      "sha256": "1ce81f1e5090dbeaa9f238bdb5f75481a7193f7cea8e2b4c9577ff69ef24bd4d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_children_young.jpg",
+      "size": 19148,
+      "sha256": "dc64e7e857ec80b7df37caa68cbdac3bb29e716a4c80b5dc02b30ff3a6cac94d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_fathers_tall.jpg",
+      "size": 28857,
+      "sha256": "99db83a5e5ce49cf399f922f04309f43bb22f76161107c999b5961c77a4c0e2e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_hands_clean.jpg",
+      "size": 17210,
+      "sha256": "89c237d753650ceb04e32ffc06617b7d8f56fe275d21fdbcd8a52aa6fcd1fb7d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_men_old.jpg",
+      "size": 19870,
+      "sha256": "b247eb55d7afdd89b042ebe8e50dbb99a0e67895c5fbda3d3c923131410a3234"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_men_short.jpg",
+      "size": 22749,
+      "sha256": "de53506fc76d1d68e6d8977f89fd7b79fe7ca94fc26d823852a1b020e2f26c75"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l14_shoes_dirty.jpg",
+      "size": 22879,
+      "sha256": "709996f082304988735a731a951c596733f4a73e566b362cd047077429d54521"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_bottle_fridge.jpg",
+      "size": 21296,
+      "sha256": "6c40afe0944f2eabf71d9f5f1661c3947786b3d6585810c0b3deb50f6dd6b95e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_box_counter.jpg",
+      "size": 15762,
+      "sha256": "ad6f7804181d53dda18a00052a9141dc945f4e61c159cc0b2b2d9619821403e9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_cup_cupboard.jpg",
+      "size": 23381,
+      "sha256": "7252f5542169f2993ba2f1c8ae5a6ee99fae036eb17d47a29f35946139df90bc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_fork_shelf.jpg",
+      "size": 12562,
+      "sha256": "a0bae8ea3a57534ff411bbbf92a7739daaf692872b5172748c660d971aabbf3c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_fridge_kitchen.jpg",
+      "size": 23351,
+      "sha256": "3dc90a65a756c919e243cb20588c1fc943a36e1e3aea00aefbe9d36b71266014"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_kettle_cooker.jpg",
+      "size": 24463,
+      "sha256": "805263d1ca53e2578e21fbc74fb30646925f0dd3f998651ac330463b4169b5c2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_knife_plate.jpg",
+      "size": 14296,
+      "sha256": "42ca5f962200a669f41baed7ea449288698ffe1f94b98bebf715818aa1445b9c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_mixer_shelf.jpg",
+      "size": 17985,
+      "sha256": "55ef869cba7838a9eab18d82494460cd40fd746a6813ecc87e497599d5eabae9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_plate_table.jpg",
+      "size": 18199,
+      "sha256": "a205a4545bcf1b679c87a9abdf6440b3241473df0ae11f56e391d7f65bd35366"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_saucepan_cooker.jpg",
+      "size": 22371,
+      "sha256": "292375db00fedc39ef6d9eb8b88f4c3ded5387af6976b0fa2fde37cbd1193b04"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_spoon_plate.jpg",
+      "size": 13954,
+      "sha256": "2cf3e31e9043aef47893cdb9bc994a7de2a6086277576fba1ad934f52a10ad66"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_teapot_table.jpg",
+      "size": 16608,
+      "sha256": "c56c564f58a6c187f566003d95041d227280924da139f3144e5909a15967269c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_teaspoon_cup.jpg",
+      "size": 13875,
+      "sha256": "edcf7dcdb2ba774d0009b5e8c30280b910abe7f960ba1d0c87e2b1e0f6b795ec"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_tin_table.jpg",
+      "size": 2430,
+      "sha256": "2c5983acc501fe55e9cfb363628925e77c8e2d96fbd3b1f8d077ad990278281c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l15_toaster_counter.jpg",
+      "size": 16621,
+      "sha256": "f4a9b233eae77c9a0bd9b454db261c4627e0855e33cff0083133f7c36418a201"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_armchairs_wall.jpg",
+      "size": 23075,
+      "sha256": "8a3ed437f93b8d0de9857e57b08bb29c2241d92b92ea059ce8347a0bc3918ab7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_books_radio.jpg",
+      "size": 19233,
+      "sha256": "29becc922f57e2561a23711e510ac19558af51ef38ef9d09a1efd673ac0eebce"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_books_stereo.jpg",
+      "size": 23560,
+      "sha256": "bca9e47c93c377cc82ce97498eca37c19dd5a74220a3ed6d3b9e754e9c1aa7bf"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_bottles_eggs.jpg",
+      "size": 22360,
+      "sha256": "b677b7ed1555796dfb81b4e67fadbb12472a2751c66702f64a300b9efd9fb594"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_cds_magazines.jpg",
+      "size": 26349,
+      "sha256": "6f6c95ff007d3f8740b6abdbd487aa993b2f57eabed72ebe9ee6d76dd879401e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_glasses_bottles.jpg",
+      "size": 19084,
+      "sha256": "d96a8cf61ffdc60c6f7dfc4fe682cfd636de6e4ed3dd99114e11d1bd73531962"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_magazines_jug.jpg",
+      "size": 24774,
+      "sha256": "7420b5ce8da174919e4be47b8db7100708dbd384e5bc59dae7b39ee7b798331f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_newspapers_vase.jpg",
+      "size": 3248,
+      "sha256": "42783d646ad24191935c11fe1e85074bd6fbca32e0ac3be56157cd071c5a8de2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_pictures_tv.jpg",
+      "size": 19192,
+      "sha256": "e7d84069f385f97db980e39ca80a981b15567299aa19de0957a4139cef328e8f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_rugs_fireplace.jpg",
+      "size": 26409,
+      "sha256": "4a38c916dd144769a2d8f9912431aafc68f46904ec64c183a7dd0889e05b438c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_sandals_bed.jpg",
+      "size": 20901,
+      "sha256": "e0bd92385643168a14125b603e8db56f91c7b56f0a63645ec6761cfa6a9d6647"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/l16_tickets_keys.jpg",
+      "size": 19637,
+      "sha256": "a0dfab5a759739c7a3fa24ae1332c77098f393c98494a558b50da25686ae60a1"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/subtitles/lesson14.vtt",
+      "size": 5747,
+      "sha256": "cd5b1c3f814568d8450e9774562bcc17838205966f5f9ad822106ec621b3d38b"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/subtitles/lesson15.vtt",
+      "size": 13597,
+      "sha256": "720679b6d7587d25faa1e70dd9f5a2ea1a74935d119895394767d063cc41e56e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/subtitles/lesson161.vtt",
+      "size": 10316,
+      "sha256": "233f0ed19207fbbb7db40a7ec9640f33a598fa15f25f788d1bfcd3f38a0ca765"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 14-16 lecke/subtitles/lesson162.vtt",
+      "size": 9133,
+      "sha256": "7cadd8adc4ef9b91a24afd6fded76bd5f602bb16bbc98de3822d4c2c9081a6be"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/cover_l5.svg",
+      "size": 2905,
+      "sha256": "ccea6415f9f635c85b7db42249b16821bd681d25c257505dc76845ae8d0963b2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/cover_l6.svg",
+      "size": 2833,
+      "sha256": "2a7fc3cf894714f2aa373fbfbbea777cbd3ae422360956c3b552629586e46bcc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/cover_l7.svg",
+      "size": 2834,
+      "sha256": "01bbae8af261cf9b0d093c15cafc87960a16a7cc176412ef97edc827b9d28a3c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/cover_l8.svg",
+      "size": 1243,
+      "sha256": "303561052d6335f0c232a5d42a46795e76b41ee04e6e33bf22addf620e019dfa"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/cover_l9.svg",
+      "size": 2321,
+      "sha256": "8d0472da378e0f21a625036758ee441b20949bf879e40d4d4f0edc99e06fb575"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_actor.svg",
+      "size": 1761,
+      "sha256": "8d55863a5007d93c269905973f8359651ff9786b985242d577800beee0c03d32"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_actress.svg",
+      "size": 1889,
+      "sha256": "acc631688c5831ae22b44328625e2a7186b97795a5fdfb0b1e08cdac1a4661c0"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_chef.svg",
+      "size": 1962,
+      "sha256": "57be03f16a1f6cb2fbaebc01c267f83871c513a10ec7ec58a37c2dbb87833b5c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_cook.svg",
+      "size": 1675,
+      "sha256": "cc13921f23df8fa31c6fe5372b21caf43cb18de0ba1e6a62a481aa13a86c1fe9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_engineer.svg",
+      "size": 1773,
+      "sha256": "59c3dfa80750e96e6681250dc98183b67057a37ae16d930687386dc732eb1103"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_manager.svg",
+      "size": 1602,
+      "sha256": "2170ed8ee7313b153159086d7e2015fb96ea9ff219da77be0243869581dc0c71"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_mechanic.svg",
+      "size": 1536,
+      "sha256": "c2053cb85055cccd5ffce2767b81b7388f6366d7d0fe941b951b864748f359ed"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_plumber.svg",
+      "size": 1608,
+      "sha256": "a50f98b61248a703f270a3cf834fb50a010078836aa054afd48c052e7ae69ccf"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_politician.svg",
+      "size": 1661,
+      "sha256": "6c800c60e0745c33b79722d1d81f352085799ecaa9ee0bc21656c44bee237238"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_president.svg",
+      "size": 1678,
+      "sha256": "f862e2dd5e5bfd8625fe84bc690e86126002e3b50c3cf028c684bc6f8df52f3f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_programmer.svg",
+      "size": 1754,
+      "sha256": "4b24b4e1e9c8ba47fc7c1c70d8208db418d2302496459360f8a05405609693c6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l5_student.svg",
+      "size": 1636,
+      "sha256": "cab1f26b0839d26e88ef8b008b4c16b4a261b83c54b19e31d5396a5155815565"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_busy.svg",
+      "size": 1867,
+      "sha256": "83ec486f99ddd8bbaec9befb40971cbc40188e2e5a9951464aeed0d2a4a6f8e1"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_clean.svg",
+      "size": 1680,
+      "sha256": "bd1021ccb3e014801d28bc18d9d7160c4ce414f8a9035a70862f9a75458c8262"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_cold.svg",
+      "size": 1734,
+      "sha256": "0af44262862e2bea514cfd58e2668e082c3a6166f5103e7382b5c08c5b5fae29"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_dirty.svg",
+      "size": 1541,
+      "sha256": "448bc6e09f245d5fb1562f1e0094bb22952a8b7e8c43536be02fbe12420ea7f3"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_fat.svg",
+      "size": 1418,
+      "sha256": "dab5c2cff8fe46d7856acad388ca28a114e0bdb282954e0fc81e795a0e09e21a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_happy.svg",
+      "size": 1552,
+      "sha256": "7a71d530d8296725fc50f0ddfe61bbbbbd74800332cc478858198e8c2713ff41"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_hot.svg",
+      "size": 1756,
+      "sha256": "fb6e48a79da0a8deed3fc93e9f61fede29d3f45c5d38a4162c9df2c80d724f4f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_lazy.svg",
+      "size": 1586,
+      "sha256": "377e51c2c873afb4a5ec60798a4d7167c66a452d734e6bd535e1982d9f8769bb"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_old.svg",
+      "size": 1703,
+      "sha256": "5b12af1a61380400dbb7ab022139884b23171ae935a1e5547700c8570bc70027"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_sad.svg",
+      "size": 1672,
+      "sha256": "ababf4f6e16b78e40b5f00b537ff09dd28f149ff8640c81209af028178c4038e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_short.svg",
+      "size": 1417,
+      "sha256": "3c5d263cc4d5c0e9a4d2545fd8100dc2aa2dded8bf6748886ef2859ec95902ae"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_tall.svg",
+      "size": 1545,
+      "sha256": "965a7c1584ed15854c1f9879bf55d9c6b6c059715dcb7f07091f81403fcd5fc6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_thin.svg",
+      "size": 1545,
+      "sha256": "aa4c2b9cf0eda5fbe1888eee7f0265f0a71410b4140d1fec93e517ad94c3822e"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l6_young.svg",
+      "size": 1486,
+      "sha256": "cea9aea38ffd9c96b6a68b2ae0434d5cbe0ded7fa917699c3f1ebbef3d211b5a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_beautiful.svg",
+      "size": 1680,
+      "sha256": "66af664201b82afd21658f68d5a338b034e45b21634ab7db42f61181ba4bff71"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_full.svg",
+      "size": 1783,
+      "sha256": "f671af26a70406a1b542d6c6465a720d75a73b7c212af5e4c964afa2f045bca6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_handsome.svg",
+      "size": 1600,
+      "sha256": "a2387b4d75ba2cd4effb8b04bbc75e4c4fc3c87b36ebfc9eb6d1af50a2cb8efc"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_hungry.svg",
+      "size": 1717,
+      "sha256": "0748cc3a085f65746db0be8fd07d0c087c6a11c6d5c958befa3fa2ac32c6bf58"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_loud.svg",
+      "size": 1641,
+      "sha256": "91c9e8b4373ea247bb63a9b1b25ad942c1230a41f41d8709467348a3e7940267"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_poor.svg",
+      "size": 1604,
+      "sha256": "a3c0d0a8a558e5790a2656b9cb375b0699da4b84c10399bd5b4223285158a4d2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_quiet.svg",
+      "size": 1745,
+      "sha256": "2b7c4d04e5e6fd65cb28842d36528e311afbc03498f1fe682945f8bc7b743533"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_rich.svg",
+      "size": 1788,
+      "sha256": "fd8216084ff8eb3006c4ce54414a629daeb746c7584d07d0588206dc08d423ea"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l7_ugly.svg",
+      "size": 1545,
+      "sha256": "a0ba34e4bfb1f408949a3e57d6382ac4a53f6cdcd2db450af710de036ed463c3"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_blouse.svg",
+      "size": 797,
+      "sha256": "71d93fa403122ee65733063b4ac627a5be6690512079913f04360009e03ff14c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_bracelet.svg",
+      "size": 753,
+      "sha256": "47fc294722054b839950970e4f25810d8da9d4cde9848644e2a3ded6c5c93e76"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_handbag.svg",
+      "size": 836,
+      "sha256": "efb10a5c3b94eda39dd1e0fc8849857899b6cfde41f4c3d5a00891b6c36ded09"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_hat.svg",
+      "size": 804,
+      "sha256": "37228833674c40149bf985deea145b161c94a982866a62695f9d9cc3fe265f42"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_ring.svg",
+      "size": 794,
+      "sha256": "09edec77c4ac28d83922f121df9a70f5e520e68cc021296eff98b687654d0415"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_tie.svg",
+      "size": 712,
+      "sha256": "3a10aed3ccf8d603569a019cf19cea4fedb8aa6f8d13ed1446166373b413769a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_tshirt.svg",
+      "size": 762,
+      "sha256": "8c90c0b9fa7b5fc10c80101e52a3c5c50676d23ddb87c8a9fc11d13023f1ed49"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_umbrella.svg",
+      "size": 865,
+      "sha256": "5a2dc13ed3ad63f180e1d11da9e57801852764ce8ba8ccd3081ff0ab1be5f78f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l8_watch.svg",
+      "size": 926,
+      "sha256": "cb508cba608f2d41080bfe17fcb1023e75d59ac132ea7ab400ebc145a48c532f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_blouse_yellow.svg",
+      "size": 811,
+      "sha256": "9e80bf0e569e9244daee3160c52733cdca75d4d559f4a360245f6d13bc1e11a5"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_brother.svg",
+      "size": 1417,
+      "sha256": "47994c9a4a94f8b1dd832dbabe3d74782c84d644ab408ebe91818dd4fba3a000"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_cap_green.svg",
+      "size": 768,
+      "sha256": "f8229cecdf399e13afd016dea8f1bfe0e1b50aa25f3d5ae0a8c60f3ca4b20490"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_black.svg",
+      "size": 728,
+      "sha256": "77e1684ce0f26d73686d8ef8789955e75ae85ee0fa6c37ee36b982dcc10d49d4"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_black_white.svg",
+      "size": 758,
+      "sha256": "343d758312d11ee3c12b4c0df070fe0691b259cc0c8d4fa64ff53a992d8925ba"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_blue.svg",
+      "size": 728,
+      "sha256": "c24372dbb2b5ac2e02a6f1600ff3c90e4991fded0707a1a08223f8a3e80ec7b6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_brown.svg",
+      "size": 728,
+      "sha256": "74b2dbc2c678947203e90aa760dd0f8fdf0f9c62e41419778fe2a65b3d629196"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_dark_blue.svg",
+      "size": 728,
+      "sha256": "48929507d72bb1b345157c0243718a10e924aa344bef8e83bd3ec67c1b272a56"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_gray.svg",
+      "size": 728,
+      "sha256": "1e9dcff350647b2c696b024dc0e568405feb5c46c2835f359d3ca87734b494e4"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_green.svg",
+      "size": 728,
+      "sha256": "846e596f7a19156f639a4d7524a80dd3ad22e89dfbd2163d45fa06f3954f2f07"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_green_yellow.svg",
+      "size": 727,
+      "sha256": "82b3d07265848495ced569b23e7eb73cb98e8b0229c53c89509f97279dad9656"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_light_green.svg",
+      "size": 728,
+      "sha256": "20886f929b389f6cce16ca1634dd39ac89df2885ab6f1031a8eebdefddca0d4f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_orange.svg",
+      "size": 728,
+      "sha256": "322402556278e4cb7a6bed6fa71a8b0d6ce102367188bb382e6f5f196192b096"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_pink.svg",
+      "size": 728,
+      "sha256": "f832c5a8af7fedcbc03dce48f76bae22a961dee865f72fcfab9f305173de38e7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_purple.svg",
+      "size": 728,
+      "sha256": "7b7b1b896e96f5b5ff8082b0ca725db7aa57f206bf9d1a5785d418d7667ef0e6"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_red.svg",
+      "size": 728,
+      "sha256": "c3b1187b576ef208b1996782836414fd05e3854d4be2866a4809aa559fd5467f"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_white.svg",
+      "size": 728,
+      "sha256": "8802c03588b439fff24c7aae3b43ae1c2a4e1794a1a6ce469dce4b0d7b08f863"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_color_yellow.svg",
+      "size": 728,
+      "sha256": "1f50c9e42de300c75df134dabd5fde6d5f26f673b57d35268e370e4724c76938"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_daughter.svg",
+      "size": 1545,
+      "sha256": "a5ed21e737791888bf59e0fb33aa21b3b4341e147e27a77ab0691e612be47cb1"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_dress_white.svg",
+      "size": 826,
+      "sha256": "9a9312375438bf6b7fc11160beaea5628fde7ea2046965483074b8e9c4114510"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_fan.svg",
+      "size": 1553,
+      "sha256": "3b57c963116959555bf019e7cfcec26f0d53254e75ac7f7ff973b373b7657abf"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_father.svg",
+      "size": 1417,
+      "sha256": "dbbf9b68b544223037be2726af631aa3f75ed8cde24787bbedf8a290ab61a40a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_handbag_purple.svg",
+      "size": 813,
+      "sha256": "7934f97ad75c21c62477e83199ce99027421d9b1f63e6f914f8f8225e433e98b"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_jacket_gray.svg",
+      "size": 803,
+      "sha256": "a3e30599ace04836d20e86b497a393a4d5caec083eddbdf9b29e433aabb5801c"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_jacket_greenyellow.svg",
+      "size": 875,
+      "sha256": "4674a3cd55c2f435e1dcf5da78030ca0d646ce1ddb55869074c455e6101ea4e9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_mother.svg",
+      "size": 1545,
+      "sha256": "bdbad55c07002938c0f03aff7a632ddaf4f73f2b0be3532209eb69b4ae6cc219"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_nurse.svg",
+      "size": 1791,
+      "sha256": "6d816ebbe73ac578673bb6d95c9ac476712ef22ea1b5b32135c334dcb4e97852"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_phone_darkblue.svg",
+      "size": 811,
+      "sha256": "d7035bf5976a8c901a2f0ff27900a9d4e1bd8dfbadda806344bf83aa7538ca0d"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_purse_lightgreen.svg",
+      "size": 815,
+      "sha256": "93c91fa38cc358c046c5c6fbab21752e00282621e4ed1e45444956cc0896ddc7"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_rattle_orange.svg",
+      "size": 840,
+      "sha256": "a5a32597a756d0ae76dc0e3a152c2d9c338531edae6e89c43a16405900aac46a"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_referee.svg",
+      "size": 1702,
+      "sha256": "40738df80b16bffda096fe781402e727d1e4a9ed7af7dc667f8d9686ba9e3c97"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_scarf_pink.svg",
+      "size": 800,
+      "sha256": "ef232018307c841267e94acb122016ac907b7667fb63c5211a794c878ffe1776"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_shirt_black.svg",
+      "size": 902,
+      "sha256": "2cb219cd090e83d7d0a9d784017d121d97986ac0b2713bd14f4c59b0b793c921"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_sister.svg",
+      "size": 1545,
+      "sha256": "1416f444ac08f6048dabf12906d40a371f14cf71b574cd9a72256b8382eff1a2"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_skirt_blue.svg",
+      "size": 748,
+      "sha256": "cebea9d51ca9436e3b37201f72e70c7f1e5dc6200f4ddac31988a178aacc6f71"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_son.svg",
+      "size": 1417,
+      "sha256": "cc225abba4d2978b867ff227914cec0480c167e1fdf5aa249fa4f02bc831aba9"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_suit_brown.svg",
+      "size": 827,
+      "sha256": "cc36c78881415f2c2e45c6bd26de2597007518885868589b8723ff30b95d67e5"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_tshirt_red.svg",
+      "size": 776,
+      "sha256": "9bda7db5eb0b52a291d0f678c16c422a517c4c871fec6cde192dd031ee782c77"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_uniform_blackwhite.svg",
+      "size": 888,
+      "sha256": "7f7943f6aae100df6c84d13dcf57907c75ce1164fd59baa031049aac4040d957"
+    },
+    {
+      "path": "Mentorklubb_angol_assets/ANGOL 5-9 lecke/l9_woman.svg",
+      "size": 1545,
+      "sha256": "ae688d5624da2197c702687800caca118a32da187a900558f887e2d5aa7df49f"
+    },
+    {
+      "path": "Mentorklubb_tananyagok_Statisztika_Tesztek_Modul1-4_angol_linkkel.html",
+      "size": 3189021,
+      "sha256": "99eeae8f9be70bb7c3d8d7395c849fe0a8b866ade33d641f98759d8bb1006f13"
+    },
+    {
+      "path": "OLVASS_EL.txt",
+      "size": 1620,
+      "sha256": "43437aa877d3e1298b2466d0336cd6c339297032abda3656f91c2e3a10bc33af"
+    },
+    {
+      "path": "OLVASS_EL_AI_TESZT.txt",
+      "size": 4078,
+      "sha256": "c00a1de088f1b33006bfda447bd7994fb6625d9aaf2b03724d40512c31c3e1be"
+    },
+    {
+      "path": "OLVASS_EL_EXPEDICIO_v4.txt",
+      "size": 3898,
+      "sha256": "02b361c2559e3a38076d4ac558bb6287299022b6aa86112baa0dd56e6e161b5c"
+    },
+    {
+      "path": "OLVASS_EL_TUDASPROBA.txt",
+      "size": 1769,
+      "sha256": "27f3e6460d6db49bb807ea2e7326770d7879c455dd87d83beb6867ee7f87ffee"
+    },
+    {
+      "path": "index.html",
+      "size": 3540107,
+      "sha256": "b0826e3ebf9d08c14c44461a733c4736db1767888ecf65612a9b96f9249b3543"
+    },
+    {
+      "path": "mentor_abrak/axis.svg",
+      "size": 871,
+      "sha256": "89e6f98bae528c2af25cb6a68495f6abebd686e7dab6e14cde1f7eeac874a80e"
+    },
+    {
+      "path": "mentor_abrak/box.svg",
+      "size": 1233,
+      "sha256": "30825ffefa8243aa6327eb16ce034ba5907fab0937b3d7535859896dd4d25323"
+    },
+    {
+      "path": "mentor_abrak/dot.svg",
+      "size": 753,
+      "sha256": "40a26cacde1923ba3d3c29356fbe20bb78f8c997789c6e3149635baaa00d860c"
+    },
+    {
+      "path": "mentor_abrak/freq.svg",
+      "size": 1128,
+      "sha256": "5bad4d221d5736f8e1ca64532e315f2b74c85ce8a7c8d602365acfdc0806cda7"
+    },
+    {
+      "path": "mentor_abrak/hist.svg",
+      "size": 1057,
+      "sha256": "c7ae7f1f16d0a26512e40333758fad3f452c1e132dd6252c625c34c798d3e800"
+    },
+    {
+      "path": "mentor_abrak/normal.svg",
+      "size": 770,
+      "sha256": "fd3d4472c2787310e56e44bc97548d4d1073db427abf6c404f9a22b04d81b17e"
+    },
+    {
+      "path": "mentor_abrak/percent.svg",
+      "size": 711,
+      "sha256": "fed4d7c05d1425f089dcf9956d37d50ebdd93060a71234c00f88ff593db32b0f"
+    },
+    {
+      "path": "mentor_abrak/prob.svg",
+      "size": 988,
+      "sha256": "fb3a642dee72f67fbcdaca579aa6f534de75a36424e725b1b3451bd7d257a98c"
+    },
+    {
+      "path": "mentor_abrak/rank.svg",
+      "size": 1218,
+      "sha256": "c4686f8f8f0f8611877f5796015c36b30ce859f069562d06bb020b63fd65eb75"
+    },
+    {
+      "path": "mentor_abrak/trend.svg",
+      "size": 1276,
+      "sha256": "e01140823d002cc6a1283cf075e4cb3ffca424fa7018fcf38c62135d4404b1dc"
+    },
+    {
+      "path": "mentor_abrak/weights.svg",
+      "size": 851,
+      "sha256": "c917f7a622c06bb205fa6ae25a61d958b7f59bc82d85d5217266b113715864fb"
+    }
+  ]
+}

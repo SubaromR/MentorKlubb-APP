@@ -1,0 +1,43 @@
+MentorKlubb Aurora – Tesztek v0.6.0 (A + B + C + D)
+====================================================
+Ez a csomag KIZÁRÓLAG a MentorKlubb jelenlegi Windows/Tauri projektjéhez készült.
+
+TELEPÍTÉS
+1. Zárd be a fejlesztői alkalmazást / állítsd le a fejlesztői PowerShellt.
+2. Készíts biztonsági másolatot a meglévő projektedről (a korábbi COPY-t ne írd felül).
+3. A ZIP web/ mappájának tartalmát másold a projekt web/ mappájába.
+4. Engedélyezd az azonos nevű index.html és Mentorklubb_Nyelvtanulas.html cseréjét.
+5. A projekt gyökeréből futtasd: npm.cmd run start
+6. Tesztek -> témakör -> vizsgaszint -> lecketeszt.
+
+ÚJDONSÁGOK
+- A terv: öt témakörből álló kártyás választó (valódi témakörök).
+- C terv: háromszintű vizsgarendszer (lecketeszt, modulzáró, témakörzáró).
+- B terv: körgyűrűs állapotjelző. Adat hiányában kötőjel, nem hamis százalék.
+- D terv: helyben már meglévő, bizonyítható összegzővizsga-eredmények megjelenítése.
+- SQL: a meglévő 5 modul és a 16 lecketeszt útvonala.
+- Önéletrajz / Állásinterjú: 8–8 meglévő lecketeszt.
+- Statisztika: 4 régi modulteszt továbbra is megnyitható, külön átmeneti jelzéssel.
+- Angol: a jelenlegi 16 leckéhez vezető elérési út, a modulszerkezet még nincs kitalálva.
+- A v0.5.0 rögzített bal oldali és felső alkalmazáskeretet változtatás nélkül hagyja.
+
+FONTOS KORLÁTOK
+- Ez a KIADÁS A FELÜLETI NAVIGÁCIÓ ELSŐ ÁTVEZETÉSE, nem a kész jutalmazási motor.
+- A modulzárók és témakörzáró új kérdéssorai még nem készültek el, ezért zárolva maradnak.
+- Az automatikus sikerességi állapotok és feloldás feltételeinek valós idejű követése még nincs bekötve.
+- Szikra, Relikvia, XP és profilmentések NEM módosulnak a v0.6 csomag hatására.
+- Angol lekötött helyi tesztje a jelenlegi önálló Angol tesztfelületre navigál.
+- A régi lecketesztek eredményei nem voltak egységesen tárolva; a körben nincs hamis teljesítmény.
+
+ELVFOGADOTT NEHÉZSÉGI CÉLOK
+Lecketeszt: 70% 1 csillag, 25% 2 csillag, 5% 3 csillag.
+Modulzáró: 20% / 50% / 30%.
+Témakörzáró: 5% / 25% / 70%.
+Javasolt sikerességi küszöb: 70% / 75% / 80%.
+Ezek a jelenlegi kérdéssorokat még nem írják automatikusan át.
+
+TESZTELÉS
+A statikus böngészős tesztben 5 témakör, 3 vizsgaszint, SQL 5 modulkártyája és
+navigáció megjelent, JavaScript-hiba nélkül. Teljes Windows Tauri alkalmazást és
+valódi jutalommódosítást itt nem tudtunk lefuttatni, ezt a felhasználói gépen
+ellenőrizni kell.

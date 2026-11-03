@@ -1,0 +1,31 @@
+MENTORKLUBB AURORA C - KEZDŐLAP v0.4.0
+======================================
+
+A csomag a felhasználó által kiválasztott C látványterv első, működő
+Windowsos Kezdőlap-megvalósítása. A projekt meglévő oldalait nem írja át.
+
+BEILLESZTÉS
+1. Zárd be a MentorKlubb fejlesztői ablakát és PowerShell-futtatását.
+2. Biztonsági mentésként másold el a két meglévő fájlt:
+   web/MentorKlubb_Aurora_Dashboard.js
+   web/MentorKlubb_Modern_Desktop.css
+3. A ZIP 'web' mappáját egyesítsd a projekt főmappájában lévő 'web'-bel.
+   A két azonos nevű fájlt cseréld, az 'aurora_c_assets' mappa új.
+4. A projektgyökérben indítsd: npm.cmd run start
+5. Nézd meg a Kezdőlapot 1050 px-nél szélesebb Windows-ablakban.
+
+BEÉPÍTETT ELEMEK
+- Bal oldali fix, ikonokkal ellátott menü (11 menüpont)
+- Felső Szikra / Relikvia / napi sorozat, a valódi Expedíció-profilból
+- MentorKlubb Tanulási Központ hero, képes könyv-illusztrációval
+- Öt gyorsindító: Tananyagok, Gyakorlás, Tesztek, Angol, Expedíció
+- Heti haladás, Tanulási célom, Következő teendő kártyák
+- Későbbi menük tájékoztató ablakokban, ha még nincsenek kidolgozva
+
+FONTOS
+A heti oszlopdiagram, B2 cél 58%, 12/20 modul, ~6 óra és az ajánlott
+következő teendő még LÁTVÁNYADAT. Ezt a felület külön jelzi.
+A Szikra/Relikvia/sorozat számát nem rögzítettük a kódban, a rendszerből
+olvassuk. A jutalmazási, mentési, teszt- és tananyaglogikához nem nyúltunk.
+A ZIP nem telepítő, a telepített Windows programot önmagában nem módosítja.
+Androidon a korábbi felület marad, a C dashboard csak széles képernyőn indul.

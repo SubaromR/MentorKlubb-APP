@@ -1,0 +1,32 @@
+{
+  "version": "0.7.0",
+  "type": "incremental Windows project update",
+  "based_on": "0.6.2",
+  "files": [
+    {
+      "path": "web/index.html",
+      "size": 3540777,
+      "sha256": "587f83a0d420393cbefc3693d2619fc8caf91b87349eeee5f5bfd269921773ad"
+    },
+    {
+      "path": "web/Mentorklubb_Nyelvtanulas.html",
+      "size": 246986,
+      "sha256": "bed1441dbbc02e49b061125d6e27a3e2a1d64da52734cef7dc78a1003284cd00"
+    },
+    {
+      "path": "web/MentorKlubb_Aurora_Tanulas_v07.js",
+      "size": 15683,
+      "sha256": "dd5a4bab30bb526b77a9ea87b5e69d533cdb41036321e879bb9900d24ffc46a1"
+    },
+    {
+      "path": "web/MentorKlubb_Aurora_Tanulas_v07.css",
+      "size": 16861,
+      "sha256": "5c01940e3e7927d5de7ea1dc136d8cc3c751db3d5ead027ef72f06a90f512766"
+    },
+    {
+      "path": "web/MentorKlubb_Aurora_Tanulas_Angol_Data.js",
+      "size": 17753,
+      "sha256": "d275a4a7210ec7beaaeca74565c4f428d52e9177200b46545787a5a466286243"
+    }
+  ]
+}

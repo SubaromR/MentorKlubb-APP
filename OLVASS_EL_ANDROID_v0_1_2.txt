@@ -1,0 +1,22 @@
+MentorKlubb Android – Expedíció v0.1.2, hibatűrő profilindítás
+
+A csomag NEM tartalmaz APK-t. A korábbi projektben kell újrafordítani.
+
+Változások:
+- A natív Android-profilolvasás maximum 4,5 másodpercig blokkolhatja az indítást.
+- Ha a natív olvasás elakad, a helyi profil tovább használható; az ismeretlen állapotú natív fájl nem íródik felül.
+- Ha az Expedíció mégsem indul, tartós, képernyőn látható hibaüzenetet és Újrapróbálás gombot kapsz.
+- A mentés azonosítója és az XP/Szikra/Relikvia jutalmazási szabályok változatlanok.
+- Tauri verzió 0.1.2. A Windowsra már telepített alkalmazás változatlan marad.
+
+Telepítés:
+1. ZIP kicsomagolása a MentorKlubb fejlesztői projekt gyökérmappájába úgy,
+   hogy a web és src-tauri mappák összeolvadjanak, a fájlokat felülírva.
+2. PowerShell a projekt gyökérmappájában:
+   npx.cmd tauri android build --debug --apk --target aarch64
+3. Az app-universal-debug.apk átmásolása a telefon Download mappájába,
+   majd a korábbi alkalmazás eltávolítása nélkül frissítés.
+4. Ha nem jelenik meg Szikra, a tartós hibaablak szövegéről kérünk képet.
+
+FIGYELEM: Az Androidon a javítás még tesztelésre vár. A fejlesztői APK-t a saját
+telefonodon kell ellenőrizni. Frissítés előtt, ha van helyi profilod, készíts mentést.

@@ -1,0 +1,241 @@
+{
+  "version": "0.3.0",
+  "scope": "Windows desktop, style and English media only",
+  "lessons": 16,
+  "photorealistic_new_lesson1": 16,
+  "photorealistic_previous_lesson5": 12,
+  "cover_updated_lessons": 16,
+  "legacy_vocabulary_images_still_pending": 189,
+  "notes": "Not all original vocabulary images are photorealistic yet. Legacy visuals intentionally retained if generated replacement would be inaccurate.",
+  "profile_storage_modified": false,
+  "changed_files": [
+    {
+      "file": "web/index.html",
+      "action": "modified",
+      "sha256": "215529d9c8ac07376d7e8a2f2567d6ef5d8d2701ed5dd8a04eac6554d2febbd0",
+      "size_bytes": 3540319
+    },
+    {
+      "file": "web/Mentorklubb_tananyagok_Statisztika_Tesztek_Modul1-4_angol_linkkel.html",
+      "action": "modified",
+      "sha256": "5957f4669e059eb3bd722153d0fb5e7e923e1eb2c6870dbd10925e533bade11a",
+      "size_bytes": 3189233
+    },
+    {
+      "file": "web/Mentorklubb_Nyelvtanulas.html",
+      "action": "modified",
+      "sha256": "d352c5b104190c6908b902e194299b710c881f19b7a0a44edfa1a9ea817b290c",
+      "size_bytes": 245893
+    },
+    {
+      "file": "web/MentorKlubb_Modern_Desktop.css",
+      "action": "modified",
+      "sha256": "53a8da2cbf485d636905e14dcaf9706e745a79a9d2bb7c4cb3c8394cac829518",
+      "size_bytes": 17597
+    },
+    {
+      "file": "web/MentorKlubb_Modern_English.css",
+      "action": "modified",
+      "sha256": "70957ab316dcb0541ab671e885169e0537c8a28b4aabdfa8a23994fbf6ddaa84",
+      "size_bytes": 8324
+    },
+    {
+      "file": "web/MentorKlubb_Modern_2026.js",
+      "action": "modified",
+      "sha256": "713d86be4a4d362c1ed6031d0b4d605b7a7f4fec0c2b6a7feab72379fedbafd7",
+      "size_bytes": 556
+    },
+    {
+      "file": "web/MentorKlubb_Aurora_Dashboard.js",
+      "action": "added",
+      "sha256": "9bdac3c579ba8292c84d6d86125de3c89a6abb46600267a3ef154661901a7a19",
+      "size_bytes": 6342
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_computer.webp",
+      "action": "added",
+      "sha256": "be565007ba33862a197a8143a71ec9016b161d1752216921b743f7e0fcc63526",
+      "size_bytes": 16944
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_bookshelf.webp",
+      "action": "added",
+      "sha256": "201176d0e656a729012e4cedab7cbe0d51adedbf0f8072c68dad5e77f1d1a9a6",
+      "size_bytes": 25606
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_picture.webp",
+      "action": "added",
+      "sha256": "1c5b8dca123fb79f0ace6f9eb971e4175192dbd0168b41b737e5a4bdb1327aeb",
+      "size_bytes": 16370
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_map.webp",
+      "action": "added",
+      "sha256": "2f3b138ae28b92ecbbfc3f9a499c9961e6d233e673e0927a0f99580a4ff39a02",
+      "size_bytes": 26278
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_bookcase.webp",
+      "action": "added",
+      "sha256": "a559e436502ed3a562ef3bf5772a644de5410c2b21965c03a18be5767189b4c1",
+      "size_bytes": 25418
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_window.webp",
+      "action": "added",
+      "sha256": "ab599d88105d5365fa696329c0beec2981aa0fd83bf01d1c3f444b16787e06eb",
+      "size_bytes": 26182
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_blackboard.webp",
+      "action": "added",
+      "sha256": "4e172585723f41d5f8fd88f5e496f226a3f083c4c4056184a2c4efe9912b18a0",
+      "size_bytes": 12202
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_wall.webp",
+      "action": "added",
+      "sha256": "415fea2a054bab0dd9f15706ab81cadaed044eb9364f5acd44555241d17f1187",
+      "size_bytes": 5700
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_floor.webp",
+      "action": "added",
+      "sha256": "ac026ad44ba2227539a57d4c51ab2171f8183c83caa6c43a797b06dc83fdb1ee",
+      "size_bytes": 21226
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_desk.webp",
+      "action": "added",
+      "sha256": "d028f32ad03aa9d679420eeb14f105d5444eb60673284214bcd70ab1386da5f1",
+      "size_bytes": 24942
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_chair.webp",
+      "action": "added",
+      "sha256": "968699ee82c2f2e28f51fac6a3ebb5143ddccc3556cc5a8faeccb9fa77ed776a",
+      "size_bytes": 23070
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_school_bag.webp",
+      "action": "added",
+      "sha256": "20662ac8c0fea594c27ca3ce25e6ec95be6024dbbea5be914df40740de9fbf51",
+      "size_bytes": 21882
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_book.webp",
+      "action": "added",
+      "sha256": "e0cae79f3f9c5df6d6c252219f28af8033e95d8019e5100acea08ce640e10aed",
+      "size_bytes": 25888
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_door.webp",
+      "action": "added",
+      "sha256": "c4523fa9774074f4e56ff355a7f9fe875b6543b67dc5c01385f3a3cb4a325ae7",
+      "size_bytes": 11998
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_pen.webp",
+      "action": "added",
+      "sha256": "054e38f3da18300ec64e9168052c27330fad1c59276c3f232f19901423fbf13d",
+      "size_bytes": 18434
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/l1_plant.webp",
+      "action": "added",
+      "sha256": "9ec272ab73375c11cf902f5488fac9acb661c2986a2c979891c287f34e8287b7",
+      "size_bytes": 25690
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l03.webp",
+      "action": "added",
+      "sha256": "4c7f5af1d560678fb8ac7ffc161b69a124dec4a0d43434c149502cffd06134d8",
+      "size_bytes": 30952
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l04.webp",
+      "action": "added",
+      "sha256": "5c9d303dc429106be57ba878ac5b6702ebd498bb0484d2d95da04597e138ce4f",
+      "size_bytes": 31880
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l05.webp",
+      "action": "added",
+      "sha256": "0ac89fdf128a4628f9c80615d96f4876edd7011fa61305dc95ff6d8a633147ea",
+      "size_bytes": 33000
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l06.webp",
+      "action": "added",
+      "sha256": "ad57d1990cf4fffbc38733fb9b892b0813410ceac974a156a89b934e0a20f1a2",
+      "size_bytes": 32016
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l07.webp",
+      "action": "added",
+      "sha256": "57b954b29190e591092756bbdc7bc8b5bb320c0184584fe920860e4f722450e8",
+      "size_bytes": 30842
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l08.webp",
+      "action": "added",
+      "sha256": "40d633ba6d1ec7cd2451388488a17caf628e43a671e2a2b5d328f2f6c5e1588b",
+      "size_bytes": 31544
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l09.webp",
+      "action": "added",
+      "sha256": "3eecc20d6940c0431d14c4fdcd978147fcd2e4da897803f5f3aff6cd114ee681",
+      "size_bytes": 30552
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l10.webp",
+      "action": "added",
+      "sha256": "ccc00d8347bfabbd5b55cd40aa0276589dbae37734a6173eaa7a75dbc9fe61b4",
+      "size_bytes": 32286
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l11.webp",
+      "action": "added",
+      "sha256": "109eb2129d3f9f4444f68bec0b69dc0bd63118342d50f5fefe3f56ab42205c09",
+      "size_bytes": 31998
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l12.webp",
+      "action": "added",
+      "sha256": "1a058da90d5278ee1a9d285f273c3d82c84c34563b1af51c65728fdffc2e8986",
+      "size_bytes": 30990
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l13.webp",
+      "action": "added",
+      "sha256": "b6326996536a774ea74658ccb1c4c77ecdb52ec0eede2189d094ee0c8009b9fb",
+      "size_bytes": 30116
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l14.webp",
+      "action": "added",
+      "sha256": "0e169ffc32cd58e28f0feec039f1f28f23a5f2fd30c3d28ea5a6e3ad8a14467e",
+      "size_bytes": 31468
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l15.webp",
+      "action": "added",
+      "sha256": "08a72c4b49c4992a457b2a998d96bc248020933285907dca25d78f2a93e195dd",
+      "size_bytes": 31428
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l16.webp",
+      "action": "added",
+      "sha256": "b5eb927e25c79ea003218ece1e48226f643204529d63f1a842ea39d8b27876b8",
+      "size_bytes": 30676
+    },
+    {
+      "file": "web/Mentorklubb_angol_assets/AURORA_REAL_PHOTOS/cover_l5.webp",
+      "action": "added",
+      "sha256": "049afe3123f3674a1e3677634a64bda0a27ab2ac191bf6685800c5d5ce4dee58",
+      "size_bytes": 32936
+    }
+  ]
+}

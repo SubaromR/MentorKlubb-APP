@@ -1,0 +1,19 @@
+MENTORKLUBB DESKTOP AURORA v0.3.0 — FRISSÍTÉS
+
+CSAK AZ EREDETI FEJLESZTŐI PROJEKTBE másold, a "MentorKlubb COPY" mappát ne módosítsd.
+
+1. Zárd be a fejlesztői Tauri ablakot (Ctrl+C a futó PowerShellben).
+2. Ellenőrizd, hogy a korábbi 70 Szikrás profilmentésed megvan.
+3. A ZIP tartalmát a "MentorKlubb_APP_Elso_Lepes_Windows_Android" gyökérmappába csomagold ki.
+   A "web" mappának egyesülnie kell a meglévő web mappával.
+4. Azonos nevű fájlokat cseréld; NE töröld az egész projektmappát!
+5. A projektmappában futtasd a parancsot: npm.cmd run start
+
+ELLENŐRZÉS:
+- Kezdőlap: hero alatt megjelenik a 6 új dashboard panel; nincsenek kitalált pontszámok.
+- Expedíció: a Szikra/Relikvia mennyiség változatlan a korábbi állapothoz képest.
+- Angol: 1. lecke 16 valósághű tárgyképe; 5. lecke felső képe valósághű szakács; 16 lecke új előnézetei.
+- Régi szókincsképek fennmaradó része ebben a kiadásban MÉG NEM fotórealisztikus.
+
+Az új JS csak megjelenítési adatokkal dolgozik. A src-tauri, adatbázisok és profilok nem szerepelnek ebben a frissítőcsomagban.
+A valódi Windows/Tauri futást a saját gépen kell ellenőrizni; helyi böngészős futtatás itt korlátozott volt.

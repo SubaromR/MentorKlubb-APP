@@ -1,0 +1,27 @@
+MENTORKLUBB DESKTOP AURORA — 2026 / 1. MŰKÖDŐ FRISSÍTÉSI CSOMAG
+
+MI KÉSZÜLT EL?
+- Asztali sötétkék / cián / lila vizuális réteg az 5 fő webes felülethez.
+- Világos / sötét kapcsoló (asztali szélességnél; a korábbi világos felületre kapcsol).
+- 12 realisztikus, különálló WebP kép a MentorKlubb English 5. lecke foglalkozásaihoz.
+- Az eredeti játékosprofil, streak, Szikra, Relikvia és tesztmotor logikája érintetlen.
+
+BEÉPÍTÉS (CSAK A FORRÁSPROJEKTBE, NEM A TELEPÍTETT ALKALMAZÁSBA)
+1. Zárd be a fejlesztői MentorKlubbot, de ne töröld a telepített appot.
+2. A TELJES MentorKlubb_APP_Elso_Lepes_Windows_Android projektmappáról készíts egy másolatot.
+3. Ezt a ZIP-et a projektmappa GYÖKERÉBE csomagold ki, az itt található `web` mappával egyesítve.
+   Válaszd a fájlok cseréjét, amikor kérdezi. Ne másold a már telepített alkalmazás mappájába.
+4. A projektmappában PowerShell: npm.cmd run start
+5. Próbáld ki: Kezdőlap, Anyagok, Tesztek, Tanulás, Angol 5. lecke, Expedíció.
+6. Ha rendben van: npm.cmd run build:windows
+7. Az új telepítőt az src-tauri\target\release\bundle\nsis mappában találod.
+
+MEGJEGYZÉSEK
+- Ez a csomag a korábbi Tauri forrásprojekt + Android javítások ismert szerkezetéhez készült.
+- Az elkészült első vizuális kiadás még nem a teljes, 168+ ábrát lefedő képreform.
+- A 12 képcsere már ténylegesen aktív az Angol 5. leckében.
+- A világos mód a korábbi jól működő megjelenésre vált, nem új tervezésű világos téma.
+- Ha az egyesítő módosítások után eltérés vagy hiba látszik, állítsd vissza a forrásmappa másolatát.
+- A Tauri Windows telepítőt és az Android APK-t a felhasználó gépén kell újra lefordítani.
+- A saját környezetben elvégzett későbbi forrásmódosítások eltérhetnek ettől a kiindulástól.
+- A kód- és assethivatkozás-ellenőrzések lefutottak; valós Windows alkalmazásablakos vizuális teszt nem.

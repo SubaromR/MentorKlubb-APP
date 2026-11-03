@@ -1,0 +1,33 @@
+MENTORKLUBB ANDROID – v0.1.1 javítócsomag
+========================================
+
+HIBA: Androidon a központi adattár nem indult el, ezért az Expedíció
+és a Tanulás jutalmazási kapcsolata nem működött.
+
+JAVÍTÁS:
+- Androidon az Expedíció nem rejtett iframe-ben, hanem közvetlenül az
+  alkalmazás oldalán indítja a közös adattármotort.
+- A Windowsos iframe-alapú adattárút megmaradt.
+- Androidon a felső státuszsáv átfedését csökkentő térköz bekerült a
+  főoldalba, az AI-tesztfelületbe és az Angol modulba.
+- Verziószám: 0.1.1
+
+ALKALMAZÁS:
+1. Mentsd el a ZIP-et, és csomagold ki a projekt GYÖKÉRMAPPÁJÁBA
+   (ahol a package.json és a web mappa van), felülírva a régi fájlokat.
+   FIGYELEM: a web és src-tauri könyvtárak beágyazását meg kell tartani.
+2. Az eredeti Windowsos MentorKlubb v0.1.0 telepítése érintetlen marad.
+3. PowerShell a projekt gyökérmappájában:
+   npx.cmd tauri android build --debug --apk --target aarch64
+4. Elkészült új APK: src-tauri/gen/android/app/build/outputs/apk/universal/debug/
+5. A telefonon a régi alkalmazás törlése NÉLKÜL telepítsd az új APK-t,
+   hogy a helyi adatok esély szerint megmaradjanak.
+6. Ellenőrizd az Expedíciót, a Tesztek menüt és a Tanulás oldalt.
+
+FONTOS:
+- A javítás automatikus JavaScript szintaxis- és adattárlogikai próbákkal
+  ellenőrzött, de a tényleges Android/WebView tesztet a telefonodon kell
+  elvégezni. Nem állítjuk, hogy az APK már elkészült.
+- A debug APK aláírása az adott számítógép debug-kulcsától függ. Ne
+  töröld a korábbi appot biztonsági mentés nélkül.
+- Ne másold ezt a ZIP-et a telepített Windows program mappájába.

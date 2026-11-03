@@ -1,0 +1,32 @@
+MENTORKLUBB AURORA B v0.5.0 — ANYAGOK + ALLANDÓ ASZTALI MENÜ/KIJELZŐ
+==================================================================
+FONTOS: EZ FORRÁSKÓD-FRISSÍTÉS, NEM TELEPÍTŐ! Csak a v0.4.0 után telepítsd.
+
+1. Zárd be a futó fejlesztői MentorKlubbot.
+2. A "MentorKlubb COPY" biztonsági másolat maradjon érintetlen.
+3. A ZIP-ben található "web" mappát (és a benne lévő fájlokat) másold
+   az EREDETI projekt főmappájába: MentorKlubb_APP_Elso_Lepes_Windows_Android.
+   A meglévő azonos nevű fájlok cseréjét engedélyezd.
+4. A projekt főmappájából: npm.cmd run start
+5. Anyagok: keresés, kategóriák, kurzusválasztás, leckék megnyitása.
+6. A bal oldali menü/felső státusz maradjon rögzített a Kezdőlap, Anyagok,
+   Tesztek, Tanulás és külön Angol, Expedíció, AI-teszt nézetekben is.
+
+MEGTARTOTT ADATOK
+- Az Expedíció helyi profilját és jutalmazási szabályait nem módosítjuk.
+- A tananyagok/tesztek eredeti tartalma nem változik.
+- Az Angol 16 leckéjének címei a meglévő forrásból kerülnek az Anyagok listába.
+- A B terv látványában szereplő bemutató százalékokat nem tüntetjük fel
+  valós mérésként. Nem jelenítünk meg kitalált egyenlegeket.
+- Az Angol/Expedíció külön oldalon a felső kijelzés a központi erőforrás API-ból,
+  vagy ideiglenesen az előző oldalon utoljára látott értékből dolgozik.
+  Ha még semmilyen adat nem érhető el, — jelet mutat; nem módosít semmit.
+
+TESZTELÉS / HATÁROK
+- JS szintaxis: ellenőrizve.
+- DOM- és kattintási egységteszt: Chromium + szintetikus HTML környezetben
+  ellenőrizve. Az új nézet felépül, 4 eredeti kurzusszekció és a külön
+  16 angolleckés lista látható, SQL kiválasztás és keresés működik.
+- A tényleges, teljes Windows Tauri-futtatást a felhasználó gépén kell ellenőrizni.
+- A később hozzáadott új, önálló HTML-oldalakba is be kell majd kötni a közös
+  MentorKlubb_Persistent_Shell CSS/JS fájlokat.

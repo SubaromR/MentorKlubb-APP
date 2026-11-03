@@ -1,0 +1,38 @@
+MENTORKLUBB AURORA – TANULÁS v0.7.0 – BUBORÉKOS FELÜLET
+========================================================
+
+KIINDULÁS: Az Aurora Tesztek v0.6.2 kiadásra feltelepített MentorKlubb projekt.
+
+TELEPÍTÉS WINDOWS:
+1. Zárd be az összes futó MentorKlubb alkalmazást és a fejlesztői szervert.
+2. Őrizd meg a korábbi MentorKlubb COPY biztonsági másolatot.
+3. A ZIP-ben lévő web mappát csomagold ki az eredeti
+   MentorKlubb_APP_Elso_Lepes_Windows_Android projekt FŐMAPPÁJÁBA.
+   A cél az eredeti projekt web mappájának frissítése, azonos nevű fájlok cseréjével.
+4. A projekt főmappájában PowerShell-ben: npm.cmd run start
+5. Nyisd meg a bal oldali Tanulás menüpontot.
+
+A BUBORÉKOS TANULÁS MŰKÖDÉSE:
+- 6 buborék egy vízszintes sorban (három látszik): Angol, Statisztika,
+  Haladó SQL, Önéletrajz, Állásinterjú A–Z és Hamarosan (szürke).
+- Egérrel balra/jobbra húzható, a nyilak is működnek.
+- Témakör után modulokba rendezett leckebuborékok következnek.
+- Leckénként rövid összefoglaló, alatta lenyitható részletes eredeti anyag.
+- Angol: 16 leckéhez saját rövid áttekintés a meglévő tartalomból,
+  az eredeti részletes angol lecke gombbal megnyitható. Az angol modulbeosztás
+  még nincs meghatározva, ezért nincs kitalált modulcím.
+- Statisztika: a 4 meglévő modul összefoglalói és az azokban lévő fejezetek.
+
+BIZTONSÁG:
+- A Tanulás oldal nem ad Szikrát, Relikviát, XP-t, és nem ír teszteredményeket.
+- A fix bal oldali menüt és a felső státuszsávot nem módosítja.
+- A Tesztek, Anyagok és az Expedíció meglévő kódját nem írja át.
+
+ELLENŐRZÉS:
+- JavaScript szintaxis ellenőrzése: sikeres.
+- Elszigetelt, böngészős próba: 6 buborék, görgetés, 5 SQL modul,
+  16 angol lecke, összefoglaló és visszalépések: sikeres.
+- A teljes Windows Tauri alkalmazás tesztje a saját számítógépeden szükséges.
+
+Megjegyzés: a ZIP telepítéshez a web/index.html és
+web/Mentorklubb_Nyelvtanulas.html tartalmazza az új fájlhivatkozásokat.
